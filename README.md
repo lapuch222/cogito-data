@@ -87,3 +87,10 @@ detectar produtos parados;
 sugerir promoções;
 prever lucro.
 essa ideia ainda esta em prototipo
+
+seria as futuras empresa que virao com a expansao da empresa
+Cogito Data	Micro e pequenas empresas
+Cogito Enterprise	Médias e grandes empresas
+Cogito AI	Inteligência Artificial
+Cogito Cloud	Infraestrutura e Big Data
+Cogito Academy	Cursos e treinamento
