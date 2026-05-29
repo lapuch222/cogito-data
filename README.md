@@ -46,3 +46,44 @@ dashboards executivos premium;
 análise financeira avançada;
 gestão por indicadores;
 analytics estratégico.
+
+Cogito Market e o aplicativo futuro para a modalidade mobile
+🎯 O que o aplicativo faria
+🛒 Marketplace
+
+Empresas venderem produtos.
+
+Tipo:
+
+mini Mercado Livre;
+focado pequenas empresas.
+
+Controle de Estoque
+
+A empresa controla:
+
+entrada;
+saída;
+estoque crítico;
+previsão reposição.
+ Dashboard Inteligente
+
+Acompanhamento em tempo real:
+
+vendas;
+lucro;
+ROI;
+ticket médio;
+clientes;
+produtos.
+
+ IA Empresarial
+
+A IA era fazer:
+
+prever vendas;
+recomendar reposição;
+detectar produtos parados;
+sugerir promoções;
+prever lucro.
+essa ideia ainda esta em prototipo
