@@ -3,7 +3,7 @@ A Cogito Data é uma consultoria especializada em Business Intelligence, Intelig
 aqui e o link do site da cogito data https://cogito-zenith-vision.lovable.app
 aqui e o link como foi para desenvolver o dasboard da gamehub play https://trello.com/b/fXNAEZD0/cogito-data
 https://trello.com/invite/b/6a189b73d28db740741d156b/ATTIb62d224278769956a9eaea09bf8d0d9b697D76CB/cogito-data
-já esta postado o controle de estoque que está sendo desenvolvido e isso e para ajudar os clientes e que eles gerem as planilhas e mandem para empresa analisar e transformar os dados da microempresas e decisões estratégicas 
+já esta postado o controle de estoque que está sendo desenvolvido em python dependendo podemos mudar a linguagem da computação,e isso e para ajudar os clientes e que eles gerem as planilhas e mandem para empresa analisar e transformar os dados das microempresas e decisões estratégicas 
 
 futuro da empresa: Academia Cogito Data
 
@@ -55,8 +55,7 @@ Cogito Market e o aplicativo futuro para a modalidade mobile
 Empresas venderem produtos.
 
 Tipo:
-
-mini Mercado Livre;
+;
 focado pequenas empresas.
 
 Controle de Estoque
