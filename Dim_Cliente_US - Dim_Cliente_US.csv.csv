@@ -1,0 +1,77 @@
+ID_Cliente,Nome_Cliente,Email,Cidade,Estado,Pais,Data_Nascimento,Sexo,Perfil_Gamer,Plano_Assinatura,Data_Cadastro,Cliente_Ativo,Dias_Como_Cliente,Faixa_Etaria
+CLI001,Ana Souza,ana.souza1@email.com,Campinas,SP,Brasil,1997-08-28,Masculino,Speedrunner,Premium,2024-06-23,Sim,921,25-34
+CLI002,Carlos Lima,carlos.lima2@email.com,Maceió,AL,Brasil,1978-03-01,Masculino,FPS Pro,VIP,2026-11-03,Sim,58,45-54
+CLI003,Maria Oliveira,maria.oliveira3@email.com,Fortaleza,CE,Brasil,2000-05-08,Não Informado,FPS Pro,VIP,2022-02-07,Sim,1788,25-34
+CLI004,João Silva,joão.silva4@email.com,Joinville,SC,Brasil,1988-04-27,Masculino,Streamer,Premium,2026-07-22,Sim,162,35-44
+CLI005,Beatriz Santos,beatriz.santos5@email.com,Maceió,AL,Brasil,1983-09-04,Feminino,Colecionador,Básico,2022-11-24,Sim,1498,35-44
+CLI006,Pedro Alves,pedro.alves6@email.com,Brasília,DF,Brasil,1982-06-12,Não Informado,Casual,VIP,2024-09-28,Sim,824,35-44
+CLI007,Fernanda Costa,fernanda.costa7@email.com,São Luís,MA,Brasil,1998-11-03,Masculino,Colecionador,Básico,2026-07-24,Sim,160,25-34
+CLI008,Lucas Ferreira,lucas.ferreira8@email.com,Salvador,BA,Brasil,2004-02-17,Masculino,Colecionador,Premium,2022-11-20,Sim,1502,18-24
+CLI009,Juliana Pereira,juliana.pereira9@email.com,Brasília,DF,Brasil,1979-10-04,Não Informado,Família,VIP,2022-03-03,Sim,1764,45-54
+CLI010,Rafael Mendes,rafael.mendes10@email.com,Porto Alegre,RS,Brasil,1992-12-11,Masculino,Hardcore,Premium,2025-09-06,Não,481,25-34
+CLI011,Amanda Castro,amanda.castro11@email.com,Rio de Janeiro,RJ,Brasil,2002-10-22,Não Informado,Colecionador,VIP,2022-02-21,Sim,1774,18-24
+CLI012,Bruno Rocha,bruno.rocha12@email.com,Salvador,BA,Brasil,1990-06-09,Não Informado,FPS Pro,VIP,2024-08-06,Sim,877,35-44
+CLI013,Camila Gomes,camila.gomes13@email.com,Salvador,BA,Brasil,2002-08-28,Feminino,Retro Gamer,VIP,2025-07-19,Sim,530,18-24
+CLI014,Diego Martins,diego.martins14@email.com,Salvador,BA,Brasil,1987-04-25,Masculino,Competitivo,Premium,2023-03-10,Sim,1392,35-44
+CLI015,Eliane Barbosa,eliane.barbosa15@email.com,Porto Alegre,RS,Brasil,1975-04-25,Não Informado,RPG Lover,VIP,2023-06-22,Sim,1288,45-54
+CLI016,Felipe Cunha,felipe.cunha16@email.com,Salvador,BA,Brasil,1992-08-18,Masculino,RPG Lover,Premium,2023-10-15,Não,1173,25-34
+CLI017,Gabriela Nunes,gabriela.nunes17@email.com,Campinas,SP,Brasil,1996-12-06,Masculino,Retro Gamer,Básico,2025-09-09,Sim,478,25-34
+CLI018,Henrique Pinto,henrique.pinto18@email.com,Natal,RN,Brasil,1980-01-28,Feminino,Streamer,Premium,2024-02-05,Sim,1060,45-54
+CLI019,Isabela Duarte,isabela.duarte19@email.com,Goiânia,GO,Brasil,2005-08-20,Feminino,Speedrunner,Básico,2023-08-14,Sim,1235,18-24
+CLI020,Jorge Lopes,jorge.lopes20@email.com,Porto Alegre,RS,Brasil,1995-03-17,Não Informado,Hardcore,Básico,2022-06-14,Sim,1661,25-34
+CLI021,Karoline Reis,karoline.reis21@email.com,São Paulo,SP,Brasil,1978-06-18,Não Informado,Speedrunner,Básico,2023-05-08,Sim,1333,45-54
+CLI022,Leonardo Figueiredo,leonardo.figueiredo22@email.com,Porto Alegre,RS,Brasil,2005-10-23,Não Informado,Streamer,Premium,2026-07-04,Sim,180,18-24
+CLI023,Marcela Carvalho,marcela.carvalho23@email.com,Fortaleza,CE,Brasil,1978-04-13,Não Informado,Retro Gamer,Premium,2022-01-17,Sim,1809,45-54
+CLI024,Nicolas Teixeira,nicolas.teixeira24@email.com,Brasília,DF,Brasil,1992-05-27,Feminino,Retro Gamer,Premium,2024-11-08,Sim,783,25-34
+CLI025,Olivia Freitas,olivia.freitas25@email.com,Porto Alegre,RS,Brasil,1999-05-11,Não Informado,Família,Básico,2026-07-13,Sim,171,25-34
+CLI026,Paulo Cardoso,paulo.cardoso26@email.com,Goiânia,GO,Brasil,2000-08-19,Feminino,Streamer,VIP,2022-04-14,Sim,1722,25-34
+CLI027,Queila Monteiro,queila.monteiro27@email.com,Salvador,BA,Brasil,1992-01-09,Feminino,Colecionador,Premium,2022-08-21,Sim,1593,35-44
+CLI028,Roberto Vasconcelos,roberto.vasconcelos28@email.com,Curitiba,PR,Brasil,1984-12-18,Masculino,Hardcore,VIP,2025-11-11,Sim,415,35-44
+CLI029,Sabrina Moura,sabrina.moura29@email.com,Recife,PE,Brasil,1995-09-13,Não Informado,Streamer,Básico,2026-05-08,Sim,237,25-34
+CLI030,Thiago Andrade,thiago.andrade30@email.com,Santos,SP,Brasil,1994-11-13,Não Informado,Hardcore,VIP,2025-06-01,Sim,578,25-34
+CLI031,Ursula Ribeiro,ursula.ribeiro31@email.com,Porto Alegre,RS,Brasil,1985-04-25,Masculino,Retro Gamer,Premium,2023-07-20,Não,1260,35-44
+CLI032,Vinicius Nascimento,vinicius.nascimento32@email.com,Recife,PE,Brasil,1991-04-28,Feminino,Speedrunner,Básico,2025-11-28,Sim,398,35-44
+CLI033,Wanda Correia,wanda.correia33@email.com,Recife,PE,Brasil,1978-02-19,Feminino,Speedrunner,VIP,2024-02-15,Sim,1050,45-54
+CLI034,Xavier Borges,xavier.borges34@email.com,Maceió,AL,Brasil,1982-10-08,Masculino,Streamer,VIP,2025-11-04,Sim,422,35-44
+CLI035,Yara Braga,yara.braga35@email.com,Manaus,AM,Brasil,1979-06-14,Feminino,Competitivo,VIP,2025-11-04,Sim,422,45-54
+CLI036,Zeca Marques,zeca.marques36@email.com,Fortaleza,CE,Brasil,1983-07-05,Não Informado,Streamer,Básico,2025-01-20,Sim,710,35-44
+CLI037,Alice Vieira,alice.vieira37@email.com,Recife,PE,Brasil,1979-12-14,Não Informado,Família,Básico,2022-04-18,Sim,1718,45-54
+CLI038,Bernardo Azevedo,bernardo.azevedo38@email.com,Curitiba,PR,Brasil,1982-05-01,Não Informado,Retro Gamer,VIP,2025-11-23,Sim,403,35-44
+CLI039,Clara Ramos,clara.ramos39@email.com,Natal,RN,Brasil,1976-08-05,Feminino,Competitivo,Premium,2023-09-14,Sim,1204,45-54
+CLI040,Daniel Pacheco,daniel.pacheco40@email.com,Santos,SP,Brasil,1989-09-21,Masculino,Streamer,Básico,2023-11-19,Sim,1138,35-44
+CLI041,Eduarda Campos,eduarda.campos41@email.com,Santos,SP,Brasil,1991-08-12,Masculino,Hardcore,VIP,2023-11-12,Sim,1145,35-44
+CLI042,Fabio Sousa,fabio.sousa42@email.com,São Luís,MA,Brasil,1980-08-15,Feminino,Retro Gamer,Básico,2022-05-07,Sim,1699,45-54
+CLI043,Gisele Tavares,gisele.tavares43@email.com,Porto Alegre,RS,Brasil,1984-11-24,Masculino,Hardcore,VIP,2022-07-02,Sim,1643,35-44
+CLI044,Hugo Macedo,hugo.macedo44@email.com,Salvador,BA,Brasil,1996-12-28,Masculino,Competitivo,VIP,2026-09-17,Sim,105,25-34
+CLI045,Irene Batista,irene.batista45@email.com,Florianópolis,SC,Brasil,1993-01-22,Masculino,Família,Premium,2025-08-10,Sim,508,25-34
+CLI046,Jonas Queiroz,jonas.queiroz46@email.com,Florianópolis,SC,Brasil,1983-06-02,Masculino,Retro Gamer,VIP,2024-11-11,Sim,780,35-44
+CLI047,Luciana Xavier,luciana.xavier47@email.com,Recife,PE,Brasil,1979-01-12,Masculino,Retro Gamer,Premium,2023-06-12,Sim,1298,45-54
+CLI048,Murilo Cavalcanti,murilo.cavalcanti48@email.com,Salvador,BA,Brasil,2000-08-17,Masculino,Speedrunner,Básico,2022-03-10,Sim,1757,25-34
+CLI049,Nina Esteves,nina.esteves49@email.com,Recife,PE,Brasil,1988-04-22,Masculino,Speedrunner,Premium,2023-07-02,Não,1278,35-44
+CLI050,Oscar Melo,oscar.melo50@email.com,Goiânia,GO,Brasil,1978-06-28,Não Informado,FPS Pro,Premium,2025-07-08,Não,541,45-54
+CLI051,Patricia Leite,patricia.leite51@email.com,Joinville,SC,Brasil,1995-08-07,Masculino,Hardcore,VIP,2024-07-23,Sim,891,25-34
+CLI052,Quintino Farias,quintino.farias52@email.com,Natal,RN,Brasil,1990-08-24,Masculino,Casual,VIP,2026-08-13,Sim,140,35-44
+CLI053,Roberta Araujo,roberta.araujo53@email.com,Joinville,SC,Brasil,2003-02-12,Não Informado,Família,Premium,2024-02-09,Sim,1056,18-24
+CLI054,Samuel Pires,samuel.pires54@email.com,Santos,SP,Brasil,1990-12-25,Feminino,RPG Lover,VIP,2026-10-19,Sim,73,35-44
+CLI055,Tatiane Moreira,tatiane.moreira55@email.com,Joinville,SC,Brasil,2003-02-01,Masculino,Família,VIP,2026-11-09,Sim,52,18-24
+CLI056,Ulisses Guimarães,ulisses.guimarães56@email.com,Natal,RN,Brasil,1979-04-01,Masculino,Streamer,Básico,2023-03-25,Sim,1377,45-54
+CLI057,Vanessa Siqueira,vanessa.siqueira57@email.com,Brasília,DF,Brasil,2003-09-09,Masculino,Speedrunner,Básico,2025-04-08,Sim,632,18-24
+CLI058,Wesley Amorim,wesley.amorim58@email.com,Goiânia,GO,Brasil,1986-09-06,Masculino,Competitivo,Premium,2025-02-17,Sim,682,35-44
+CLI059,Ximena Brandão,ximena.brandão59@email.com,Maceió,AL,Brasil,1992-07-15,Não Informado,Colecionador,Básico,2024-09-25,Sim,827,25-34
+CLI060,Yasmin Toledo,yasmin.toledo60@email.com,Curitiba,PR,Brasil,1992-01-15,Masculino,Competitivo,Premium,2022-06-09,Sim,1666,25-34
+CLI061,Caio Fonseca,caio.fonseca61@email.com,Salvador,BA,Brasil,1993-02-15,Masculino,Hardcore,Básico,2025-06-03,Não,576,25-34
+CLI062,Leticia Drummond,leticia.drummond62@email.com,Belo Horizonte,MG,Brasil,1989-04-23,Masculino,Colecionador,Premium,2025-03-21,Sim,650,35-44
+CLI063,Mateus Cavalcante,mateus.cavalcante63@email.com,Maceió,AL,Brasil,1995-07-25,Não Informado,RPG Lover,VIP,2025-02-25,Sim,674,25-34
+CLI064,Priscila Henrique,priscila.henrique64@email.com,Curitiba,PR,Brasil,1998-04-05,Feminino,Casual,VIP,2022-04-12,Sim,1724,25-34
+CLI065,Rodrigo Tavares,rodrigo.tavares65@email.com,Curitiba,PR,Brasil,1996-04-22,Feminino,RPG Lover,VIP,2024-05-14,Sim,961,25-34
+CLI066,Stephanie Nogueira,stephanie.nogueira66@email.com,Manaus,AM,Brasil,1995-02-24,Feminino,Família,Premium,2024-08-19,Sim,864,25-34
+CLI067,Thales Magalhães,thales.magalhães67@email.com,Campinas,SP,Brasil,1996-06-03,Feminino,FPS Pro,Básico,2023-02-21,Sim,1409,25-34
+CLI068,Valentina Cruz,valentina.cruz68@email.com,Curitiba,PR,Brasil,2000-08-04,Não Informado,Retro Gamer,Premium,2026-09-05,Sim,117,25-34
+CLI069,Willian Cardoso,willian.cardoso69@email.com,Maceió,AL,Brasil,1998-08-16,Feminino,Retro Gamer,Premium,2025-10-14,Sim,443,25-34
+CLI070,Zenaide Pimentel,zenaide.pimentel70@email.com,Joinville,SC,Brasil,1980-04-20,Feminino,Casual,VIP,2025-04-27,Sim,613,45-54
+CLI071,Arthur Leal,arthur.leal71@email.com,Joinville,SC,Brasil,1984-12-06,Não Informado,Retro Gamer,Premium,2025-06-02,Sim,577,35-44
+CLI072,Bianca Moraes,bianca.moraes72@email.com,Maceió,AL,Brasil,1993-07-21,Feminino,Competitivo,VIP,2024-11-22,Sim,769,25-34
+CLI073,Cesar Aguiar,cesar.aguiar73@email.com,Belo Horizonte,MG,Brasil,1991-05-11,Masculino,Retro Gamer,Básico,2026-08-22,Sim,131,35-44
+CLI074,Diana Coelho,diana.coelho74@email.com,Salvador,BA,Brasil,1989-07-17,Masculino,Speedrunner,Premium,2024-11-10,Sim,781,35-44
+CLI075,Eduardo Luz,eduardo.luz75@email.com,Natal,RN,Brasil,1991-12-11,Masculino,Speedrunner,Básico,2025-05-09,Sim,601,35-44
+CLI076,Fabiana Queiroz,fabiana.queiroz76@email.com,São Luís,MA,Brasil,1996-08-22,Masculino,Speedrunner,Básico,2023-01-19,Sim,1442,25-34

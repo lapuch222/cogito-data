@@ -1,0 +1,9 @@
+ID_Plataforma,Nome_Plataforma,Fabricante,Tipo,Geracao,Data_Lancamento
+PLT001,PlayStation 5,Sony,Console,9ª Geração,2020-11-12
+PLT002,Xbox Series ,Microsoft,Console,9ª Geração,2020-11-10
+PLT003,Nintendo Switch,Nintendo,Console Híbrido,8ª Geração,2017-03-03
+PLT004,PC,Diversas,Computador,—,—
+PLT005,PlayStation 4,Sony,Console,8ª Geração,2013-11-15
+PLT006,Xbox One,Microsoft,Console,8ª Geração,2013-11-22
+PLT007,Nintendo Switch 2,Nintendo,Console Híbrido,9ª Geração,2025-06-05
+PLT008,Multi-Plataforma,Diversas,Digital,—,—

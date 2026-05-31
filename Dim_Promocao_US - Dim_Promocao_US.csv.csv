@@ -1,0 +1,17 @@
+ID_Promocao,Nome_Promocao,Tipo_Desconto,Percentual_Desconto,Data_Inicio,Data_Fim,Plataforma_Alvo,Categoria_Alvo,Duracao_Dias
+PROMO000,Sem Promoção,Nenhum,0.00,2024-01-01,2026-12-31,Todas,Todas,1096
+PROMO001,Black Friday 2024,Percentual,25.00,2024-11-29,2024-12-02,Todas,Todas,4
+PROMO002,Semana Gamer Jul/2024,Percentual,15.00,2024-07-01,2024-07-07,Todas,Jogos,7
+PROMO003,Combo Console + Jogo,Bundle,10.00,2024-03-01,2024-03-31,Todas,Consoles,31
+PROMO004,Desconto EA FC 25,Produto Específico,20.00,2024-09-27,2024-10-10,Multi-Plataforma,Jogos,14
+PROMO005,Promoção Nintendo Switch 2,Percentual,12.00,2025-06-05,2025-06-15,Nintendo Switch 2,Consoles,11
+PROMO006,Cashback Xbox,Cashback,8.00,2024-08-01,2024-08-31,Xbox Series X,Todas,31
+PROMO007,Cupom Steam PC,Cupom,18.00,2024-12-19,2025-01-02,PC,Jogos,15
+PROMO008,Semana Gamer Jan/2025,Percentual,10.00,2025-01-15,2025-01-21,Todas,Acessórios,7
+PROMO009,Black Friday 2025,Percentual,30.00,2025-11-28,2025-12-01,Todas,Todas,4
+PROMO010,Aniversário GameHub,Percentual,15.00,2024-06-01,2024-06-07,Todas,Todas,7
+PROMO011,Semana Consumidor 2026,Percentual,20.00,2026-03-10,2026-03-17,Todas,Jogos,8
+PROMO012,Black Friday 2026,Percentual,30.00,2026-11-27,2026-11-30,Todas,Todas,4
+PROMO013,Lançamento AC Resynced,Percentual,10.00,2026-07-09,2026-07-20,Multi-Plataforma,Jogos,12
+PROMO014,Semana Gamer Jul/2026,Percentual,15.00,2026-07-01,2026-07-07,Todas,Jogos,7
+PROMO015,Lançamento GTA VI,Bundle,10.00,2026-11-19,2026-11-30,Multi-Plataforma,Jogos,12

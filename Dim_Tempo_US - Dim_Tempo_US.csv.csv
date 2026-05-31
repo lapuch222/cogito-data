@@ -1,0 +1,1097 @@
+ID_Tempo,Data,Dia,Mes,Nome_Mes,Trimestre,Semestre,Ano,Semana,Dia_Semana,Fim_Semana,Sazonalidade,Estacao
+TMP0001,2024-01-01,1,1,Janeiro,Q1,S1,2024,1,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0002,2024-01-02,2,1,Janeiro,Q1,S1,2024,1,Terça-Feira,Não,Pós-Natal,Verão
+TMP0003,2024-01-03,3,1,Janeiro,Q1,S1,2024,1,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0004,2024-01-04,4,1,Janeiro,Q1,S1,2024,1,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0005,2024-01-05,5,1,Janeiro,Q1,S1,2024,1,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0006,2024-01-06,6,1,Janeiro,Q1,S1,2024,1,Sábado,Sim,Pós-Natal,Verão
+TMP0007,2024-01-07,7,1,Janeiro,Q1,S1,2024,1,Domingo,Sim,Pós-Natal,Verão
+TMP0008,2024-01-08,8,1,Janeiro,Q1,S1,2024,2,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0009,2024-01-09,9,1,Janeiro,Q1,S1,2024,2,Terça-Feira,Não,Pós-Natal,Verão
+TMP0010,2024-01-10,10,1,Janeiro,Q1,S1,2024,2,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0011,2024-01-11,11,1,Janeiro,Q1,S1,2024,2,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0012,2024-01-12,12,1,Janeiro,Q1,S1,2024,2,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0013,2024-01-13,13,1,Janeiro,Q1,S1,2024,2,Sábado,Sim,Pós-Natal,Verão
+TMP0014,2024-01-14,14,1,Janeiro,Q1,S1,2024,2,Domingo,Sim,Pós-Natal,Verão
+TMP0015,2024-01-15,15,1,Janeiro,Q1,S1,2024,3,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0016,2024-01-16,16,1,Janeiro,Q1,S1,2024,3,Terça-Feira,Não,Pós-Natal,Verão
+TMP0017,2024-01-17,17,1,Janeiro,Q1,S1,2024,3,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0018,2024-01-18,18,1,Janeiro,Q1,S1,2024,3,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0019,2024-01-19,19,1,Janeiro,Q1,S1,2024,3,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0020,2024-01-20,20,1,Janeiro,Q1,S1,2024,3,Sábado,Sim,Pós-Natal,Verão
+TMP0021,2024-01-21,21,1,Janeiro,Q1,S1,2024,3,Domingo,Sim,Pós-Natal,Verão
+TMP0022,2024-01-22,22,1,Janeiro,Q1,S1,2024,4,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0023,2024-01-23,23,1,Janeiro,Q1,S1,2024,4,Terça-Feira,Não,Pós-Natal,Verão
+TMP0024,2024-01-24,24,1,Janeiro,Q1,S1,2024,4,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0025,2024-01-25,25,1,Janeiro,Q1,S1,2024,4,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0026,2024-01-26,26,1,Janeiro,Q1,S1,2024,4,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0027,2024-01-27,27,1,Janeiro,Q1,S1,2024,4,Sábado,Sim,Pós-Natal,Verão
+TMP0028,2024-01-28,28,1,Janeiro,Q1,S1,2024,4,Domingo,Sim,Pós-Natal,Verão
+TMP0029,2024-01-29,29,1,Janeiro,Q1,S1,2024,5,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0030,2024-01-30,30,1,Janeiro,Q1,S1,2024,5,Terça-Feira,Não,Pós-Natal,Verão
+TMP0031,2024-01-31,31,1,Janeiro,Q1,S1,2024,5,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0032,2024-02-01,1,2,Fevereiro,Q1,S1,2024,5,Quinta-Feira,Não,Normal,Verão
+TMP0033,2024-02-02,2,2,Fevereiro,Q1,S1,2024,5,Sexta-Feira,Não,Normal,Verão
+TMP0034,2024-02-03,3,2,Fevereiro,Q1,S1,2024,5,Sábado,Sim,Normal,Verão
+TMP0035,2024-02-04,4,2,Fevereiro,Q1,S1,2024,5,Domingo,Sim,Normal,Verão
+TMP0036,2024-02-05,5,2,Fevereiro,Q1,S1,2024,6,Segunda-Feira,Não,Normal,Verão
+TMP0037,2024-02-06,6,2,Fevereiro,Q1,S1,2024,6,Terça-Feira,Não,Normal,Verão
+TMP0038,2024-02-07,7,2,Fevereiro,Q1,S1,2024,6,Quarta-Feira,Não,Normal,Verão
+TMP0039,2024-02-08,8,2,Fevereiro,Q1,S1,2024,6,Quinta-Feira,Não,Normal,Verão
+TMP0040,2024-02-09,9,2,Fevereiro,Q1,S1,2024,6,Sexta-Feira,Não,Normal,Verão
+TMP0041,2024-02-10,10,2,Fevereiro,Q1,S1,2024,6,Sábado,Sim,Normal,Verão
+TMP0042,2024-02-11,11,2,Fevereiro,Q1,S1,2024,6,Domingo,Sim,Normal,Verão
+TMP0043,2024-02-12,12,2,Fevereiro,Q1,S1,2024,7,Segunda-Feira,Não,Normal,Verão
+TMP0044,2024-02-13,13,2,Fevereiro,Q1,S1,2024,7,Terça-Feira,Não,Normal,Verão
+TMP0045,2024-02-14,14,2,Fevereiro,Q1,S1,2024,7,Quarta-Feira,Não,Normal,Verão
+TMP0046,2024-02-15,15,2,Fevereiro,Q1,S1,2024,7,Quinta-Feira,Não,Normal,Verão
+TMP0047,2024-02-16,16,2,Fevereiro,Q1,S1,2024,7,Sexta-Feira,Não,Normal,Verão
+TMP0048,2024-02-17,17,2,Fevereiro,Q1,S1,2024,7,Sábado,Sim,Normal,Verão
+TMP0049,2024-02-18,18,2,Fevereiro,Q1,S1,2024,7,Domingo,Sim,Normal,Verão
+TMP0050,2024-02-19,19,2,Fevereiro,Q1,S1,2024,8,Segunda-Feira,Não,Normal,Verão
+TMP0051,2024-02-20,20,2,Fevereiro,Q1,S1,2024,8,Terça-Feira,Não,Normal,Verão
+TMP0052,2024-02-21,21,2,Fevereiro,Q1,S1,2024,8,Quarta-Feira,Não,Normal,Verão
+TMP0053,2024-02-22,22,2,Fevereiro,Q1,S1,2024,8,Quinta-Feira,Não,Normal,Verão
+TMP0054,2024-02-23,23,2,Fevereiro,Q1,S1,2024,8,Sexta-Feira,Não,Normal,Verão
+TMP0055,2024-02-24,24,2,Fevereiro,Q1,S1,2024,8,Sábado,Sim,Normal,Verão
+TMP0056,2024-02-25,25,2,Fevereiro,Q1,S1,2024,8,Domingo,Sim,Normal,Verão
+TMP0057,2024-02-26,26,2,Fevereiro,Q1,S1,2024,9,Segunda-Feira,Não,Normal,Verão
+TMP0058,2024-02-27,27,2,Fevereiro,Q1,S1,2024,9,Terça-Feira,Não,Normal,Verão
+TMP0059,2024-02-28,28,2,Fevereiro,Q1,S1,2024,9,Quarta-Feira,Não,Normal,Verão
+TMP0060,2024-02-29,29,2,Fevereiro,Q1,S1,2024,9,Quinta-Feira,Não,Normal,Verão
+TMP0061,2024-03-01,1,3,Março,Q1,S1,2024,9,Sexta-Feira,Não,Normal,Outono
+TMP0062,2024-03-02,2,3,Março,Q1,S1,2024,9,Sábado,Sim,Normal,Outono
+TMP0063,2024-03-03,3,3,Março,Q1,S1,2024,9,Domingo,Sim,Normal,Outono
+TMP0064,2024-03-04,4,3,Março,Q1,S1,2024,10,Segunda-Feira,Não,Normal,Outono
+TMP0065,2024-03-05,5,3,Março,Q1,S1,2024,10,Terça-Feira,Não,Normal,Outono
+TMP0066,2024-03-06,6,3,Março,Q1,S1,2024,10,Quarta-Feira,Não,Normal,Outono
+TMP0067,2024-03-07,7,3,Março,Q1,S1,2024,10,Quinta-Feira,Não,Normal,Outono
+TMP0068,2024-03-08,8,3,Março,Q1,S1,2024,10,Sexta-Feira,Não,Normal,Outono
+TMP0069,2024-03-09,9,3,Março,Q1,S1,2024,10,Sábado,Sim,Normal,Outono
+TMP0070,2024-03-10,10,3,Março,Q1,S1,2024,10,Domingo,Sim,Normal,Outono
+TMP0071,2024-03-11,11,3,Março,Q1,S1,2024,11,Segunda-Feira,Não,Normal,Outono
+TMP0072,2024-03-12,12,3,Março,Q1,S1,2024,11,Terça-Feira,Não,Normal,Outono
+TMP0073,2024-03-13,13,3,Março,Q1,S1,2024,11,Quarta-Feira,Não,Normal,Outono
+TMP0074,2024-03-14,14,3,Março,Q1,S1,2024,11,Quinta-Feira,Não,Normal,Outono
+TMP0075,2024-03-15,15,3,Março,Q1,S1,2024,11,Sexta-Feira,Não,Normal,Outono
+TMP0076,2024-03-16,16,3,Março,Q1,S1,2024,11,Sábado,Sim,Normal,Outono
+TMP0077,2024-03-17,17,3,Março,Q1,S1,2024,11,Domingo,Sim,Normal,Outono
+TMP0078,2024-03-18,18,3,Março,Q1,S1,2024,12,Segunda-Feira,Não,Normal,Outono
+TMP0079,2024-03-19,19,3,Março,Q1,S1,2024,12,Terça-Feira,Não,Normal,Outono
+TMP0080,2024-03-20,20,3,Março,Q1,S1,2024,12,Quarta-Feira,Não,Normal,Outono
+TMP0081,2024-03-21,21,3,Março,Q1,S1,2024,12,Quinta-Feira,Não,Normal,Outono
+TMP0082,2024-03-22,22,3,Março,Q1,S1,2024,12,Sexta-Feira,Não,Normal,Outono
+TMP0083,2024-03-23,23,3,Março,Q1,S1,2024,12,Sábado,Sim,Normal,Outono
+TMP0084,2024-03-24,24,3,Março,Q1,S1,2024,12,Domingo,Sim,Normal,Outono
+TMP0085,2024-03-25,25,3,Março,Q1,S1,2024,13,Segunda-Feira,Não,Normal,Outono
+TMP0086,2024-03-26,26,3,Março,Q1,S1,2024,13,Terça-Feira,Não,Normal,Outono
+TMP0087,2024-03-27,27,3,Março,Q1,S1,2024,13,Quarta-Feira,Não,Normal,Outono
+TMP0088,2024-03-28,28,3,Março,Q1,S1,2024,13,Quinta-Feira,Não,Normal,Outono
+TMP0089,2024-03-29,29,3,Março,Q1,S1,2024,13,Sexta-Feira,Não,Normal,Outono
+TMP0090,2024-03-30,30,3,Março,Q1,S1,2024,13,Sábado,Sim,Normal,Outono
+TMP0091,2024-03-31,31,3,Março,Q1,S1,2024,13,Domingo,Sim,Normal,Outono
+TMP0092,2024-04-01,1,4,Abril,Q2,S1,2024,14,Segunda-Feira,Não,Normal,Outono
+TMP0093,2024-04-02,2,4,Abril,Q2,S1,2024,14,Terça-Feira,Não,Normal,Outono
+TMP0094,2024-04-03,3,4,Abril,Q2,S1,2024,14,Quarta-Feira,Não,Normal,Outono
+TMP0095,2024-04-04,4,4,Abril,Q2,S1,2024,14,Quinta-Feira,Não,Normal,Outono
+TMP0096,2024-04-05,5,4,Abril,Q2,S1,2024,14,Sexta-Feira,Não,Normal,Outono
+TMP0097,2024-04-06,6,4,Abril,Q2,S1,2024,14,Sábado,Sim,Normal,Outono
+TMP0098,2024-04-07,7,4,Abril,Q2,S1,2024,14,Domingo,Sim,Normal,Outono
+TMP0099,2024-04-08,8,4,Abril,Q2,S1,2024,15,Segunda-Feira,Não,Normal,Outono
+TMP0100,2024-04-09,9,4,Abril,Q2,S1,2024,15,Terça-Feira,Não,Normal,Outono
+TMP0101,2024-04-10,10,4,Abril,Q2,S1,2024,15,Quarta-Feira,Não,Normal,Outono
+TMP0102,2024-04-11,11,4,Abril,Q2,S1,2024,15,Quinta-Feira,Não,Normal,Outono
+TMP0103,2024-04-12,12,4,Abril,Q2,S1,2024,15,Sexta-Feira,Não,Normal,Outono
+TMP0104,2024-04-13,13,4,Abril,Q2,S1,2024,15,Sábado,Sim,Normal,Outono
+TMP0105,2024-04-14,14,4,Abril,Q2,S1,2024,15,Domingo,Sim,Normal,Outono
+TMP0106,2024-04-15,15,4,Abril,Q2,S1,2024,16,Segunda-Feira,Não,Normal,Outono
+TMP0107,2024-04-16,16,4,Abril,Q2,S1,2024,16,Terça-Feira,Não,Normal,Outono
+TMP0108,2024-04-17,17,4,Abril,Q2,S1,2024,16,Quarta-Feira,Não,Normal,Outono
+TMP0109,2024-04-18,18,4,Abril,Q2,S1,2024,16,Quinta-Feira,Não,Normal,Outono
+TMP0110,2024-04-19,19,4,Abril,Q2,S1,2024,16,Sexta-Feira,Não,Normal,Outono
+TMP0111,2024-04-20,20,4,Abril,Q2,S1,2024,16,Sábado,Sim,Normal,Outono
+TMP0112,2024-04-21,21,4,Abril,Q2,S1,2024,16,Domingo,Sim,Normal,Outono
+TMP0113,2024-04-22,22,4,Abril,Q2,S1,2024,17,Segunda-Feira,Não,Normal,Outono
+TMP0114,2024-04-23,23,4,Abril,Q2,S1,2024,17,Terça-Feira,Não,Normal,Outono
+TMP0115,2024-04-24,24,4,Abril,Q2,S1,2024,17,Quarta-Feira,Não,Normal,Outono
+TMP0116,2024-04-25,25,4,Abril,Q2,S1,2024,17,Quinta-Feira,Não,Normal,Outono
+TMP0117,2024-04-26,26,4,Abril,Q2,S1,2024,17,Sexta-Feira,Não,Normal,Outono
+TMP0118,2024-04-27,27,4,Abril,Q2,S1,2024,17,Sábado,Sim,Normal,Outono
+TMP0119,2024-04-28,28,4,Abril,Q2,S1,2024,17,Domingo,Sim,Normal,Outono
+TMP0120,2024-04-29,29,4,Abril,Q2,S1,2024,18,Segunda-Feira,Não,Normal,Outono
+TMP0121,2024-04-30,30,4,Abril,Q2,S1,2024,18,Terça-Feira,Não,Normal,Outono
+TMP0122,2024-05-01,1,5,Maio,Q2,S1,2024,18,Quarta-Feira,Não,Normal,Outono
+TMP0123,2024-05-02,2,5,Maio,Q2,S1,2024,18,Quinta-Feira,Não,Normal,Outono
+TMP0124,2024-05-03,3,5,Maio,Q2,S1,2024,18,Sexta-Feira,Não,Normal,Outono
+TMP0125,2024-05-04,4,5,Maio,Q2,S1,2024,18,Sábado,Sim,Normal,Outono
+TMP0126,2024-05-05,5,5,Maio,Q2,S1,2024,18,Domingo,Sim,Normal,Outono
+TMP0127,2024-05-06,6,5,Maio,Q2,S1,2024,19,Segunda-Feira,Não,Normal,Outono
+TMP0128,2024-05-07,7,5,Maio,Q2,S1,2024,19,Terça-Feira,Não,Normal,Outono
+TMP0129,2024-05-08,8,5,Maio,Q2,S1,2024,19,Quarta-Feira,Não,Normal,Outono
+TMP0130,2024-05-09,9,5,Maio,Q2,S1,2024,19,Quinta-Feira,Não,Normal,Outono
+TMP0131,2024-05-10,10,5,Maio,Q2,S1,2024,19,Sexta-Feira,Não,Normal,Outono
+TMP0132,2024-05-11,11,5,Maio,Q2,S1,2024,19,Sábado,Sim,Normal,Outono
+TMP0133,2024-05-12,12,5,Maio,Q2,S1,2024,19,Domingo,Sim,Normal,Outono
+TMP0134,2024-05-13,13,5,Maio,Q2,S1,2024,20,Segunda-Feira,Não,Normal,Outono
+TMP0135,2024-05-14,14,5,Maio,Q2,S1,2024,20,Terça-Feira,Não,Normal,Outono
+TMP0136,2024-05-15,15,5,Maio,Q2,S1,2024,20,Quarta-Feira,Não,Normal,Outono
+TMP0137,2024-05-16,16,5,Maio,Q2,S1,2024,20,Quinta-Feira,Não,Normal,Outono
+TMP0138,2024-05-17,17,5,Maio,Q2,S1,2024,20,Sexta-Feira,Não,Normal,Outono
+TMP0139,2024-05-18,18,5,Maio,Q2,S1,2024,20,Sábado,Sim,Normal,Outono
+TMP0140,2024-05-19,19,5,Maio,Q2,S1,2024,20,Domingo,Sim,Normal,Outono
+TMP0141,2024-05-20,20,5,Maio,Q2,S1,2024,21,Segunda-Feira,Não,Normal,Outono
+TMP0142,2024-05-21,21,5,Maio,Q2,S1,2024,21,Terça-Feira,Não,Normal,Outono
+TMP0143,2024-05-22,22,5,Maio,Q2,S1,2024,21,Quarta-Feira,Não,Normal,Outono
+TMP0144,2024-05-23,23,5,Maio,Q2,S1,2024,21,Quinta-Feira,Não,Normal,Outono
+TMP0145,2024-05-24,24,5,Maio,Q2,S1,2024,21,Sexta-Feira,Não,Normal,Outono
+TMP0146,2024-05-25,25,5,Maio,Q2,S1,2024,21,Sábado,Sim,Normal,Outono
+TMP0147,2024-05-26,26,5,Maio,Q2,S1,2024,21,Domingo,Sim,Normal,Outono
+TMP0148,2024-05-27,27,5,Maio,Q2,S1,2024,22,Segunda-Feira,Não,Normal,Outono
+TMP0149,2024-05-28,28,5,Maio,Q2,S1,2024,22,Terça-Feira,Não,Normal,Outono
+TMP0150,2024-05-29,29,5,Maio,Q2,S1,2024,22,Quarta-Feira,Não,Normal,Outono
+TMP0151,2024-05-30,30,5,Maio,Q2,S1,2024,22,Quinta-Feira,Não,Normal,Outono
+TMP0152,2024-05-31,31,5,Maio,Q2,S1,2024,22,Sexta-Feira,Não,Normal,Outono
+TMP0153,2024-06-01,1,6,Junho,Q2,S1,2024,22,Sábado,Sim,Semana Gamer,Inverno
+TMP0154,2024-06-02,2,6,Junho,Q2,S1,2024,22,Domingo,Sim,Semana Gamer,Inverno
+TMP0155,2024-06-03,3,6,Junho,Q2,S1,2024,23,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0156,2024-06-04,4,6,Junho,Q2,S1,2024,23,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0157,2024-06-05,5,6,Junho,Q2,S1,2024,23,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0158,2024-06-06,6,6,Junho,Q2,S1,2024,23,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0159,2024-06-07,7,6,Junho,Q2,S1,2024,23,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0160,2024-06-08,8,6,Junho,Q2,S1,2024,23,Sábado,Sim,Semana Gamer,Inverno
+TMP0161,2024-06-09,9,6,Junho,Q2,S1,2024,23,Domingo,Sim,Semana Gamer,Inverno
+TMP0162,2024-06-10,10,6,Junho,Q2,S1,2024,24,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0163,2024-06-11,11,6,Junho,Q2,S1,2024,24,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0164,2024-06-12,12,6,Junho,Q2,S1,2024,24,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0165,2024-06-13,13,6,Junho,Q2,S1,2024,24,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0166,2024-06-14,14,6,Junho,Q2,S1,2024,24,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0167,2024-06-15,15,6,Junho,Q2,S1,2024,24,Sábado,Sim,Semana Gamer,Inverno
+TMP0168,2024-06-16,16,6,Junho,Q2,S1,2024,24,Domingo,Sim,Semana Gamer,Inverno
+TMP0169,2024-06-17,17,6,Junho,Q2,S1,2024,25,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0170,2024-06-18,18,6,Junho,Q2,S1,2024,25,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0171,2024-06-19,19,6,Junho,Q2,S1,2024,25,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0172,2024-06-20,20,6,Junho,Q2,S1,2024,25,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0173,2024-06-21,21,6,Junho,Q2,S1,2024,25,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0174,2024-06-22,22,6,Junho,Q2,S1,2024,25,Sábado,Sim,Semana Gamer,Inverno
+TMP0175,2024-06-23,23,6,Junho,Q2,S1,2024,25,Domingo,Sim,Semana Gamer,Inverno
+TMP0176,2024-06-24,24,6,Junho,Q2,S1,2024,26,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0177,2024-06-25,25,6,Junho,Q2,S1,2024,26,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0178,2024-06-26,26,6,Junho,Q2,S1,2024,26,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0179,2024-06-27,27,6,Junho,Q2,S1,2024,26,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0180,2024-06-28,28,6,Junho,Q2,S1,2024,26,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0181,2024-06-29,29,6,Junho,Q2,S1,2024,26,Sábado,Sim,Semana Gamer,Inverno
+TMP0182,2024-06-30,30,6,Junho,Q2,S1,2024,26,Domingo,Sim,Semana Gamer,Inverno
+TMP0183,2024-07-01,1,7,Julho,Q3,S2,2024,27,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0184,2024-07-02,2,7,Julho,Q3,S2,2024,27,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0185,2024-07-03,3,7,Julho,Q3,S2,2024,27,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0186,2024-07-04,4,7,Julho,Q3,S2,2024,27,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0187,2024-07-05,5,7,Julho,Q3,S2,2024,27,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0188,2024-07-06,6,7,Julho,Q3,S2,2024,27,Sábado,Sim,Semana Gamer,Inverno
+TMP0189,2024-07-07,7,7,Julho,Q3,S2,2024,27,Domingo,Sim,Semana Gamer,Inverno
+TMP0190,2024-07-08,8,7,Julho,Q3,S2,2024,28,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0191,2024-07-09,9,7,Julho,Q3,S2,2024,28,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0192,2024-07-10,10,7,Julho,Q3,S2,2024,28,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0193,2024-07-11,11,7,Julho,Q3,S2,2024,28,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0194,2024-07-12,12,7,Julho,Q3,S2,2024,28,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0195,2024-07-13,13,7,Julho,Q3,S2,2024,28,Sábado,Sim,Semana Gamer,Inverno
+TMP0196,2024-07-14,14,7,Julho,Q3,S2,2024,28,Domingo,Sim,Semana Gamer,Inverno
+TMP0197,2024-07-15,15,7,Julho,Q3,S2,2024,29,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0198,2024-07-16,16,7,Julho,Q3,S2,2024,29,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0199,2024-07-17,17,7,Julho,Q3,S2,2024,29,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0200,2024-07-18,18,7,Julho,Q3,S2,2024,29,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0201,2024-07-19,19,7,Julho,Q3,S2,2024,29,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0202,2024-07-20,20,7,Julho,Q3,S2,2024,29,Sábado,Sim,Semana Gamer,Inverno
+TMP0203,2024-07-21,21,7,Julho,Q3,S2,2024,29,Domingo,Sim,Semana Gamer,Inverno
+TMP0204,2024-07-22,22,7,Julho,Q3,S2,2024,30,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0205,2024-07-23,23,7,Julho,Q3,S2,2024,30,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0206,2024-07-24,24,7,Julho,Q3,S2,2024,30,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0207,2024-07-25,25,7,Julho,Q3,S2,2024,30,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0208,2024-07-26,26,7,Julho,Q3,S2,2024,30,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0209,2024-07-27,27,7,Julho,Q3,S2,2024,30,Sábado,Sim,Semana Gamer,Inverno
+TMP0210,2024-07-28,28,7,Julho,Q3,S2,2024,30,Domingo,Sim,Semana Gamer,Inverno
+TMP0211,2024-07-29,29,7,Julho,Q3,S2,2024,31,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0212,2024-07-30,30,7,Julho,Q3,S2,2024,31,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0213,2024-07-31,31,7,Julho,Q3,S2,2024,31,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0214,2024-08-01,1,8,Agosto,Q3,S2,2024,31,Quinta-Feira,Não,Normal,Inverno
+TMP0215,2024-08-02,2,8,Agosto,Q3,S2,2024,31,Sexta-Feira,Não,Normal,Inverno
+TMP0216,2024-08-03,3,8,Agosto,Q3,S2,2024,31,Sábado,Sim,Normal,Inverno
+TMP0217,2024-08-04,4,8,Agosto,Q3,S2,2024,31,Domingo,Sim,Normal,Inverno
+TMP0218,2024-08-05,5,8,Agosto,Q3,S2,2024,32,Segunda-Feira,Não,Normal,Inverno
+TMP0219,2024-08-06,6,8,Agosto,Q3,S2,2024,32,Terça-Feira,Não,Normal,Inverno
+TMP0220,2024-08-07,7,8,Agosto,Q3,S2,2024,32,Quarta-Feira,Não,Normal,Inverno
+TMP0221,2024-08-08,8,8,Agosto,Q3,S2,2024,32,Quinta-Feira,Não,Normal,Inverno
+TMP0222,2024-08-09,9,8,Agosto,Q3,S2,2024,32,Sexta-Feira,Não,Normal,Inverno
+TMP0223,2024-08-10,10,8,Agosto,Q3,S2,2024,32,Sábado,Sim,Normal,Inverno
+TMP0224,2024-08-11,11,8,Agosto,Q3,S2,2024,32,Domingo,Sim,Normal,Inverno
+TMP0225,2024-08-12,12,8,Agosto,Q3,S2,2024,33,Segunda-Feira,Não,Normal,Inverno
+TMP0226,2024-08-13,13,8,Agosto,Q3,S2,2024,33,Terça-Feira,Não,Normal,Inverno
+TMP0227,2024-08-14,14,8,Agosto,Q3,S2,2024,33,Quarta-Feira,Não,Normal,Inverno
+TMP0228,2024-08-15,15,8,Agosto,Q3,S2,2024,33,Quinta-Feira,Não,Normal,Inverno
+TMP0229,2024-08-16,16,8,Agosto,Q3,S2,2024,33,Sexta-Feira,Não,Normal,Inverno
+TMP0230,2024-08-17,17,8,Agosto,Q3,S2,2024,33,Sábado,Sim,Normal,Inverno
+TMP0231,2024-08-18,18,8,Agosto,Q3,S2,2024,33,Domingo,Sim,Normal,Inverno
+TMP0232,2024-08-19,19,8,Agosto,Q3,S2,2024,34,Segunda-Feira,Não,Normal,Inverno
+TMP0233,2024-08-20,20,8,Agosto,Q3,S2,2024,34,Terça-Feira,Não,Normal,Inverno
+TMP0234,2024-08-21,21,8,Agosto,Q3,S2,2024,34,Quarta-Feira,Não,Normal,Inverno
+TMP0235,2024-08-22,22,8,Agosto,Q3,S2,2024,34,Quinta-Feira,Não,Normal,Inverno
+TMP0236,2024-08-23,23,8,Agosto,Q3,S2,2024,34,Sexta-Feira,Não,Normal,Inverno
+TMP0237,2024-08-24,24,8,Agosto,Q3,S2,2024,34,Sábado,Sim,Normal,Inverno
+TMP0238,2024-08-25,25,8,Agosto,Q3,S2,2024,34,Domingo,Sim,Normal,Inverno
+TMP0239,2024-08-26,26,8,Agosto,Q3,S2,2024,35,Segunda-Feira,Não,Normal,Inverno
+TMP0240,2024-08-27,27,8,Agosto,Q3,S2,2024,35,Terça-Feira,Não,Normal,Inverno
+TMP0241,2024-08-28,28,8,Agosto,Q3,S2,2024,35,Quarta-Feira,Não,Normal,Inverno
+TMP0242,2024-08-29,29,8,Agosto,Q3,S2,2024,35,Quinta-Feira,Não,Normal,Inverno
+TMP0243,2024-08-30,30,8,Agosto,Q3,S2,2024,35,Sexta-Feira,Não,Normal,Inverno
+TMP0244,2024-08-31,31,8,Agosto,Q3,S2,2024,35,Sábado,Sim,Normal,Inverno
+TMP0245,2024-09-01,1,9,Setembro,Q3,S2,2024,35,Domingo,Sim,Normal,Primavera
+TMP0246,2024-09-02,2,9,Setembro,Q3,S2,2024,36,Segunda-Feira,Não,Normal,Primavera
+TMP0247,2024-09-03,3,9,Setembro,Q3,S2,2024,36,Terça-Feira,Não,Normal,Primavera
+TMP0248,2024-09-04,4,9,Setembro,Q3,S2,2024,36,Quarta-Feira,Não,Normal,Primavera
+TMP0249,2024-09-05,5,9,Setembro,Q3,S2,2024,36,Quinta-Feira,Não,Normal,Primavera
+TMP0250,2024-09-06,6,9,Setembro,Q3,S2,2024,36,Sexta-Feira,Não,Normal,Primavera
+TMP0251,2024-09-07,7,9,Setembro,Q3,S2,2024,36,Sábado,Sim,Normal,Primavera
+TMP0252,2024-09-08,8,9,Setembro,Q3,S2,2024,36,Domingo,Sim,Normal,Primavera
+TMP0253,2024-09-09,9,9,Setembro,Q3,S2,2024,37,Segunda-Feira,Não,Normal,Primavera
+TMP0254,2024-09-10,10,9,Setembro,Q3,S2,2024,37,Terça-Feira,Não,Normal,Primavera
+TMP0255,2024-09-11,11,9,Setembro,Q3,S2,2024,37,Quarta-Feira,Não,Normal,Primavera
+TMP0256,2024-09-12,12,9,Setembro,Q3,S2,2024,37,Quinta-Feira,Não,Normal,Primavera
+TMP0257,2024-09-13,13,9,Setembro,Q3,S2,2024,37,Sexta-Feira,Não,Normal,Primavera
+TMP0258,2024-09-14,14,9,Setembro,Q3,S2,2024,37,Sábado,Sim,Normal,Primavera
+TMP0259,2024-09-15,15,9,Setembro,Q3,S2,2024,37,Domingo,Sim,Normal,Primavera
+TMP0260,2024-09-16,16,9,Setembro,Q3,S2,2024,38,Segunda-Feira,Não,Normal,Primavera
+TMP0261,2024-09-17,17,9,Setembro,Q3,S2,2024,38,Terça-Feira,Não,Normal,Primavera
+TMP0262,2024-09-18,18,9,Setembro,Q3,S2,2024,38,Quarta-Feira,Não,Normal,Primavera
+TMP0263,2024-09-19,19,9,Setembro,Q3,S2,2024,38,Quinta-Feira,Não,Normal,Primavera
+TMP0264,2024-09-20,20,9,Setembro,Q3,S2,2024,38,Sexta-Feira,Não,Normal,Primavera
+TMP0265,2024-09-21,21,9,Setembro,Q3,S2,2024,38,Sábado,Sim,Normal,Primavera
+TMP0266,2024-09-22,22,9,Setembro,Q3,S2,2024,38,Domingo,Sim,Normal,Primavera
+TMP0267,2024-09-23,23,9,Setembro,Q3,S2,2024,39,Segunda-Feira,Não,Normal,Primavera
+TMP0268,2024-09-24,24,9,Setembro,Q3,S2,2024,39,Terça-Feira,Não,Normal,Primavera
+TMP0269,2024-09-25,25,9,Setembro,Q3,S2,2024,39,Quarta-Feira,Não,Normal,Primavera
+TMP0270,2024-09-26,26,9,Setembro,Q3,S2,2024,39,Quinta-Feira,Não,Normal,Primavera
+TMP0271,2024-09-27,27,9,Setembro,Q3,S2,2024,39,Sexta-Feira,Não,Normal,Primavera
+TMP0272,2024-09-28,28,9,Setembro,Q3,S2,2024,39,Sábado,Sim,Normal,Primavera
+TMP0273,2024-09-29,29,9,Setembro,Q3,S2,2024,39,Domingo,Sim,Normal,Primavera
+TMP0274,2024-09-30,30,9,Setembro,Q3,S2,2024,40,Segunda-Feira,Não,Normal,Primavera
+TMP0275,2024-10-01,1,10,Outubro,Q4,S2,2024,40,Terça-Feira,Não,Normal,Primavera
+TMP0276,2024-10-02,2,10,Outubro,Q4,S2,2024,40,Quarta-Feira,Não,Normal,Primavera
+TMP0277,2024-10-03,3,10,Outubro,Q4,S2,2024,40,Quinta-Feira,Não,Normal,Primavera
+TMP0278,2024-10-04,4,10,Outubro,Q4,S2,2024,40,Sexta-Feira,Não,Normal,Primavera
+TMP0279,2024-10-05,5,10,Outubro,Q4,S2,2024,40,Sábado,Sim,Normal,Primavera
+TMP0280,2024-10-06,6,10,Outubro,Q4,S2,2024,40,Domingo,Sim,Normal,Primavera
+TMP0281,2024-10-07,7,10,Outubro,Q4,S2,2024,41,Segunda-Feira,Não,Normal,Primavera
+TMP0282,2024-10-08,8,10,Outubro,Q4,S2,2024,41,Terça-Feira,Não,Normal,Primavera
+TMP0283,2024-10-09,9,10,Outubro,Q4,S2,2024,41,Quarta-Feira,Não,Normal,Primavera
+TMP0284,2024-10-10,10,10,Outubro,Q4,S2,2024,41,Quinta-Feira,Não,Normal,Primavera
+TMP0285,2024-10-11,11,10,Outubro,Q4,S2,2024,41,Sexta-Feira,Não,Normal,Primavera
+TMP0286,2024-10-12,12,10,Outubro,Q4,S2,2024,41,Sábado,Sim,Normal,Primavera
+TMP0287,2024-10-13,13,10,Outubro,Q4,S2,2024,41,Domingo,Sim,Normal,Primavera
+TMP0288,2024-10-14,14,10,Outubro,Q4,S2,2024,42,Segunda-Feira,Não,Normal,Primavera
+TMP0289,2024-10-15,15,10,Outubro,Q4,S2,2024,42,Terça-Feira,Não,Normal,Primavera
+TMP0290,2024-10-16,16,10,Outubro,Q4,S2,2024,42,Quarta-Feira,Não,Normal,Primavera
+TMP0291,2024-10-17,17,10,Outubro,Q4,S2,2024,42,Quinta-Feira,Não,Normal,Primavera
+TMP0292,2024-10-18,18,10,Outubro,Q4,S2,2024,42,Sexta-Feira,Não,Normal,Primavera
+TMP0293,2024-10-19,19,10,Outubro,Q4,S2,2024,42,Sábado,Sim,Normal,Primavera
+TMP0294,2024-10-20,20,10,Outubro,Q4,S2,2024,42,Domingo,Sim,Normal,Primavera
+TMP0295,2024-10-21,21,10,Outubro,Q4,S2,2024,43,Segunda-Feira,Não,Normal,Primavera
+TMP0296,2024-10-22,22,10,Outubro,Q4,S2,2024,43,Terça-Feira,Não,Normal,Primavera
+TMP0297,2024-10-23,23,10,Outubro,Q4,S2,2024,43,Quarta-Feira,Não,Normal,Primavera
+TMP0298,2024-10-24,24,10,Outubro,Q4,S2,2024,43,Quinta-Feira,Não,Normal,Primavera
+TMP0299,2024-10-25,25,10,Outubro,Q4,S2,2024,43,Sexta-Feira,Não,Normal,Primavera
+TMP0300,2024-10-26,26,10,Outubro,Q4,S2,2024,43,Sábado,Sim,Normal,Primavera
+TMP0301,2024-10-27,27,10,Outubro,Q4,S2,2024,43,Domingo,Sim,Normal,Primavera
+TMP0302,2024-10-28,28,10,Outubro,Q4,S2,2024,44,Segunda-Feira,Não,Normal,Primavera
+TMP0303,2024-10-29,29,10,Outubro,Q4,S2,2024,44,Terça-Feira,Não,Normal,Primavera
+TMP0304,2024-10-30,30,10,Outubro,Q4,S2,2024,44,Quarta-Feira,Não,Normal,Primavera
+TMP0305,2024-10-31,31,10,Outubro,Q4,S2,2024,44,Quinta-Feira,Não,Normal,Primavera
+TMP0306,2024-11-01,1,11,Novembro,Q4,S2,2024,44,Sexta-Feira,Não,Normal,Primavera
+TMP0307,2024-11-02,2,11,Novembro,Q4,S2,2024,44,Sábado,Sim,Normal,Primavera
+TMP0308,2024-11-03,3,11,Novembro,Q4,S2,2024,44,Domingo,Sim,Normal,Primavera
+TMP0309,2024-11-04,4,11,Novembro,Q4,S2,2024,45,Segunda-Feira,Não,Normal,Primavera
+TMP0310,2024-11-05,5,11,Novembro,Q4,S2,2024,45,Terça-Feira,Não,Normal,Primavera
+TMP0311,2024-11-06,6,11,Novembro,Q4,S2,2024,45,Quarta-Feira,Não,Normal,Primavera
+TMP0312,2024-11-07,7,11,Novembro,Q4,S2,2024,45,Quinta-Feira,Não,Normal,Primavera
+TMP0313,2024-11-08,8,11,Novembro,Q4,S2,2024,45,Sexta-Feira,Não,Normal,Primavera
+TMP0314,2024-11-09,9,11,Novembro,Q4,S2,2024,45,Sábado,Sim,Normal,Primavera
+TMP0315,2024-11-10,10,11,Novembro,Q4,S2,2024,45,Domingo,Sim,Normal,Primavera
+TMP0316,2024-11-11,11,11,Novembro,Q4,S2,2024,46,Segunda-Feira,Não,Normal,Primavera
+TMP0317,2024-11-12,12,11,Novembro,Q4,S2,2024,46,Terça-Feira,Não,Normal,Primavera
+TMP0318,2024-11-13,13,11,Novembro,Q4,S2,2024,46,Quarta-Feira,Não,Normal,Primavera
+TMP0319,2024-11-14,14,11,Novembro,Q4,S2,2024,46,Quinta-Feira,Não,Normal,Primavera
+TMP0320,2024-11-15,15,11,Novembro,Q4,S2,2024,46,Sexta-Feira,Não,Normal,Primavera
+TMP0321,2024-11-16,16,11,Novembro,Q4,S2,2024,46,Sábado,Sim,Normal,Primavera
+TMP0322,2024-11-17,17,11,Novembro,Q4,S2,2024,46,Domingo,Sim,Normal,Primavera
+TMP0323,2024-11-18,18,11,Novembro,Q4,S2,2024,47,Segunda-Feira,Não,Normal,Primavera
+TMP0324,2024-11-19,19,11,Novembro,Q4,S2,2024,47,Terça-Feira,Não,Normal,Primavera
+TMP0325,2024-11-20,20,11,Novembro,Q4,S2,2024,47,Quarta-Feira,Não,Normal,Primavera
+TMP0326,2024-11-21,21,11,Novembro,Q4,S2,2024,47,Quinta-Feira,Não,Normal,Primavera
+TMP0327,2024-11-22,22,11,Novembro,Q4,S2,2024,47,Sexta-Feira,Não,Normal,Primavera
+TMP0328,2024-11-23,23,11,Novembro,Q4,S2,2024,47,Sábado,Sim,Normal,Primavera
+TMP0329,2024-11-24,24,11,Novembro,Q4,S2,2024,47,Domingo,Sim,Normal,Primavera
+TMP0330,2024-11-25,25,11,Novembro,Q4,S2,2024,48,Segunda-Feira,Não,Black Friday,Primavera
+TMP0331,2024-11-26,26,11,Novembro,Q4,S2,2024,48,Terça-Feira,Não,Black Friday,Primavera
+TMP0332,2024-11-27,27,11,Novembro,Q4,S2,2024,48,Quarta-Feira,Não,Black Friday,Primavera
+TMP0333,2024-11-28,28,11,Novembro,Q4,S2,2024,48,Quinta-Feira,Não,Black Friday,Primavera
+TMP0334,2024-11-29,29,11,Novembro,Q4,S2,2024,48,Sexta-Feira,Não,Black Friday,Primavera
+TMP0335,2024-11-30,30,11,Novembro,Q4,S2,2024,48,Sábado,Sim,Black Friday,Primavera
+TMP0336,2024-12-01,1,12,Dezembro,Q4,S2,2024,48,Domingo,Sim,Natal,Verão
+TMP0337,2024-12-02,2,12,Dezembro,Q4,S2,2024,49,Segunda-Feira,Não,Natal,Verão
+TMP0338,2024-12-03,3,12,Dezembro,Q4,S2,2024,49,Terça-Feira,Não,Natal,Verão
+TMP0339,2024-12-04,4,12,Dezembro,Q4,S2,2024,49,Quarta-Feira,Não,Natal,Verão
+TMP0340,2024-12-05,5,12,Dezembro,Q4,S2,2024,49,Quinta-Feira,Não,Natal,Verão
+TMP0341,2024-12-06,6,12,Dezembro,Q4,S2,2024,49,Sexta-Feira,Não,Natal,Verão
+TMP0342,2024-12-07,7,12,Dezembro,Q4,S2,2024,49,Sábado,Sim,Natal,Verão
+TMP0343,2024-12-08,8,12,Dezembro,Q4,S2,2024,49,Domingo,Sim,Natal,Verão
+TMP0344,2024-12-09,9,12,Dezembro,Q4,S2,2024,50,Segunda-Feira,Não,Natal,Verão
+TMP0345,2024-12-10,10,12,Dezembro,Q4,S2,2024,50,Terça-Feira,Não,Natal,Verão
+TMP0346,2024-12-11,11,12,Dezembro,Q4,S2,2024,50,Quarta-Feira,Não,Natal,Verão
+TMP0347,2024-12-12,12,12,Dezembro,Q4,S2,2024,50,Quinta-Feira,Não,Natal,Verão
+TMP0348,2024-12-13,13,12,Dezembro,Q4,S2,2024,50,Sexta-Feira,Não,Natal,Verão
+TMP0349,2024-12-14,14,12,Dezembro,Q4,S2,2024,50,Sábado,Sim,Natal,Verão
+TMP0350,2024-12-15,15,12,Dezembro,Q4,S2,2024,50,Domingo,Sim,Natal,Verão
+TMP0351,2024-12-16,16,12,Dezembro,Q4,S2,2024,51,Segunda-Feira,Não,Natal,Verão
+TMP0352,2024-12-17,17,12,Dezembro,Q4,S2,2024,51,Terça-Feira,Não,Natal,Verão
+TMP0353,2024-12-18,18,12,Dezembro,Q4,S2,2024,51,Quarta-Feira,Não,Natal,Verão
+TMP0354,2024-12-19,19,12,Dezembro,Q4,S2,2024,51,Quinta-Feira,Não,Natal,Verão
+TMP0355,2024-12-20,20,12,Dezembro,Q4,S2,2024,51,Sexta-Feira,Não,Natal,Verão
+TMP0356,2024-12-21,21,12,Dezembro,Q4,S2,2024,51,Sábado,Sim,Natal,Verão
+TMP0357,2024-12-22,22,12,Dezembro,Q4,S2,2024,51,Domingo,Sim,Natal,Verão
+TMP0358,2024-12-23,23,12,Dezembro,Q4,S2,2024,52,Segunda-Feira,Não,Natal,Verão
+TMP0359,2024-12-24,24,12,Dezembro,Q4,S2,2024,52,Terça-Feira,Não,Natal,Verão
+TMP0360,2024-12-25,25,12,Dezembro,Q4,S2,2024,52,Quarta-Feira,Não,Natal,Verão
+TMP0361,2024-12-26,26,12,Dezembro,Q4,S2,2024,52,Quinta-Feira,Não,Natal,Verão
+TMP0362,2024-12-27,27,12,Dezembro,Q4,S2,2024,52,Sexta-Feira,Não,Natal,Verão
+TMP0363,2024-12-28,28,12,Dezembro,Q4,S2,2024,52,Sábado,Sim,Natal,Verão
+TMP0364,2024-12-29,29,12,Dezembro,Q4,S2,2024,52,Domingo,Sim,Natal,Verão
+TMP0365,2024-12-30,30,12,Dezembro,Q4,S2,2024,1,Segunda-Feira,Não,Natal,Verão
+TMP0366,2024-12-31,31,12,Dezembro,Q4,S2,2024,1,Terça-Feira,Não,Natal,Verão
+TMP0367,2025-01-01,1,1,Janeiro,Q1,S1,2025,1,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0368,2025-01-02,2,1,Janeiro,Q1,S1,2025,1,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0369,2025-01-03,3,1,Janeiro,Q1,S1,2025,1,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0370,2025-01-04,4,1,Janeiro,Q1,S1,2025,1,Sábado,Sim,Pós-Natal,Verão
+TMP0371,2025-01-05,5,1,Janeiro,Q1,S1,2025,1,Domingo,Sim,Pós-Natal,Verão
+TMP0372,2025-01-06,6,1,Janeiro,Q1,S1,2025,2,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0373,2025-01-07,7,1,Janeiro,Q1,S1,2025,2,Terça-Feira,Não,Pós-Natal,Verão
+TMP0374,2025-01-08,8,1,Janeiro,Q1,S1,2025,2,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0375,2025-01-09,9,1,Janeiro,Q1,S1,2025,2,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0376,2025-01-10,10,1,Janeiro,Q1,S1,2025,2,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0377,2025-01-11,11,1,Janeiro,Q1,S1,2025,2,Sábado,Sim,Pós-Natal,Verão
+TMP0378,2025-01-12,12,1,Janeiro,Q1,S1,2025,2,Domingo,Sim,Pós-Natal,Verão
+TMP0379,2025-01-13,13,1,Janeiro,Q1,S1,2025,3,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0380,2025-01-14,14,1,Janeiro,Q1,S1,2025,3,Terça-Feira,Não,Pós-Natal,Verão
+TMP0381,2025-01-15,15,1,Janeiro,Q1,S1,2025,3,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0382,2025-01-16,16,1,Janeiro,Q1,S1,2025,3,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0383,2025-01-17,17,1,Janeiro,Q1,S1,2025,3,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0384,2025-01-18,18,1,Janeiro,Q1,S1,2025,3,Sábado,Sim,Pós-Natal,Verão
+TMP0385,2025-01-19,19,1,Janeiro,Q1,S1,2025,3,Domingo,Sim,Pós-Natal,Verão
+TMP0386,2025-01-20,20,1,Janeiro,Q1,S1,2025,4,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0387,2025-01-21,21,1,Janeiro,Q1,S1,2025,4,Terça-Feira,Não,Pós-Natal,Verão
+TMP0388,2025-01-22,22,1,Janeiro,Q1,S1,2025,4,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0389,2025-01-23,23,1,Janeiro,Q1,S1,2025,4,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0390,2025-01-24,24,1,Janeiro,Q1,S1,2025,4,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0391,2025-01-25,25,1,Janeiro,Q1,S1,2025,4,Sábado,Sim,Pós-Natal,Verão
+TMP0392,2025-01-26,26,1,Janeiro,Q1,S1,2025,4,Domingo,Sim,Pós-Natal,Verão
+TMP0393,2025-01-27,27,1,Janeiro,Q1,S1,2025,5,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0394,2025-01-28,28,1,Janeiro,Q1,S1,2025,5,Terça-Feira,Não,Pós-Natal,Verão
+TMP0395,2025-01-29,29,1,Janeiro,Q1,S1,2025,5,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0396,2025-01-30,30,1,Janeiro,Q1,S1,2025,5,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0397,2025-01-31,31,1,Janeiro,Q1,S1,2025,5,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0398,2025-02-01,1,2,Fevereiro,Q1,S1,2025,5,Sábado,Sim,Normal,Verão
+TMP0399,2025-02-02,2,2,Fevereiro,Q1,S1,2025,5,Domingo,Sim,Normal,Verão
+TMP0400,2025-02-03,3,2,Fevereiro,Q1,S1,2025,6,Segunda-Feira,Não,Normal,Verão
+TMP0401,2025-02-04,4,2,Fevereiro,Q1,S1,2025,6,Terça-Feira,Não,Normal,Verão
+TMP0402,2025-02-05,5,2,Fevereiro,Q1,S1,2025,6,Quarta-Feira,Não,Normal,Verão
+TMP0403,2025-02-06,6,2,Fevereiro,Q1,S1,2025,6,Quinta-Feira,Não,Normal,Verão
+TMP0404,2025-02-07,7,2,Fevereiro,Q1,S1,2025,6,Sexta-Feira,Não,Normal,Verão
+TMP0405,2025-02-08,8,2,Fevereiro,Q1,S1,2025,6,Sábado,Sim,Normal,Verão
+TMP0406,2025-02-09,9,2,Fevereiro,Q1,S1,2025,6,Domingo,Sim,Normal,Verão
+TMP0407,2025-02-10,10,2,Fevereiro,Q1,S1,2025,7,Segunda-Feira,Não,Normal,Verão
+TMP0408,2025-02-11,11,2,Fevereiro,Q1,S1,2025,7,Terça-Feira,Não,Normal,Verão
+TMP0409,2025-02-12,12,2,Fevereiro,Q1,S1,2025,7,Quarta-Feira,Não,Normal,Verão
+TMP0410,2025-02-13,13,2,Fevereiro,Q1,S1,2025,7,Quinta-Feira,Não,Normal,Verão
+TMP0411,2025-02-14,14,2,Fevereiro,Q1,S1,2025,7,Sexta-Feira,Não,Normal,Verão
+TMP0412,2025-02-15,15,2,Fevereiro,Q1,S1,2025,7,Sábado,Sim,Normal,Verão
+TMP0413,2025-02-16,16,2,Fevereiro,Q1,S1,2025,7,Domingo,Sim,Normal,Verão
+TMP0414,2025-02-17,17,2,Fevereiro,Q1,S1,2025,8,Segunda-Feira,Não,Normal,Verão
+TMP0415,2025-02-18,18,2,Fevereiro,Q1,S1,2025,8,Terça-Feira,Não,Normal,Verão
+TMP0416,2025-02-19,19,2,Fevereiro,Q1,S1,2025,8,Quarta-Feira,Não,Normal,Verão
+TMP0417,2025-02-20,20,2,Fevereiro,Q1,S1,2025,8,Quinta-Feira,Não,Normal,Verão
+TMP0418,2025-02-21,21,2,Fevereiro,Q1,S1,2025,8,Sexta-Feira,Não,Normal,Verão
+TMP0419,2025-02-22,22,2,Fevereiro,Q1,S1,2025,8,Sábado,Sim,Normal,Verão
+TMP0420,2025-02-23,23,2,Fevereiro,Q1,S1,2025,8,Domingo,Sim,Normal,Verão
+TMP0421,2025-02-24,24,2,Fevereiro,Q1,S1,2025,9,Segunda-Feira,Não,Normal,Verão
+TMP0422,2025-02-25,25,2,Fevereiro,Q1,S1,2025,9,Terça-Feira,Não,Normal,Verão
+TMP0423,2025-02-26,26,2,Fevereiro,Q1,S1,2025,9,Quarta-Feira,Não,Normal,Verão
+TMP0424,2025-02-27,27,2,Fevereiro,Q1,S1,2025,9,Quinta-Feira,Não,Normal,Verão
+TMP0425,2025-02-28,28,2,Fevereiro,Q1,S1,2025,9,Sexta-Feira,Não,Normal,Verão
+TMP0426,2025-03-01,1,3,Março,Q1,S1,2025,9,Sábado,Sim,Normal,Outono
+TMP0427,2025-03-02,2,3,Março,Q1,S1,2025,9,Domingo,Sim,Normal,Outono
+TMP0428,2025-03-03,3,3,Março,Q1,S1,2025,10,Segunda-Feira,Não,Normal,Outono
+TMP0429,2025-03-04,4,3,Março,Q1,S1,2025,10,Terça-Feira,Não,Normal,Outono
+TMP0430,2025-03-05,5,3,Março,Q1,S1,2025,10,Quarta-Feira,Não,Normal,Outono
+TMP0431,2025-03-06,6,3,Março,Q1,S1,2025,10,Quinta-Feira,Não,Normal,Outono
+TMP0432,2025-03-07,7,3,Março,Q1,S1,2025,10,Sexta-Feira,Não,Normal,Outono
+TMP0433,2025-03-08,8,3,Março,Q1,S1,2025,10,Sábado,Sim,Normal,Outono
+TMP0434,2025-03-09,9,3,Março,Q1,S1,2025,10,Domingo,Sim,Normal,Outono
+TMP0435,2025-03-10,10,3,Março,Q1,S1,2025,11,Segunda-Feira,Não,Normal,Outono
+TMP0436,2025-03-11,11,3,Março,Q1,S1,2025,11,Terça-Feira,Não,Normal,Outono
+TMP0437,2025-03-12,12,3,Março,Q1,S1,2025,11,Quarta-Feira,Não,Normal,Outono
+TMP0438,2025-03-13,13,3,Março,Q1,S1,2025,11,Quinta-Feira,Não,Normal,Outono
+TMP0439,2025-03-14,14,3,Março,Q1,S1,2025,11,Sexta-Feira,Não,Normal,Outono
+TMP0440,2025-03-15,15,3,Março,Q1,S1,2025,11,Sábado,Sim,Normal,Outono
+TMP0441,2025-03-16,16,3,Março,Q1,S1,2025,11,Domingo,Sim,Normal,Outono
+TMP0442,2025-03-17,17,3,Março,Q1,S1,2025,12,Segunda-Feira,Não,Normal,Outono
+TMP0443,2025-03-18,18,3,Março,Q1,S1,2025,12,Terça-Feira,Não,Normal,Outono
+TMP0444,2025-03-19,19,3,Março,Q1,S1,2025,12,Quarta-Feira,Não,Normal,Outono
+TMP0445,2025-03-20,20,3,Março,Q1,S1,2025,12,Quinta-Feira,Não,Normal,Outono
+TMP0446,2025-03-21,21,3,Março,Q1,S1,2025,12,Sexta-Feira,Não,Normal,Outono
+TMP0447,2025-03-22,22,3,Março,Q1,S1,2025,12,Sábado,Sim,Normal,Outono
+TMP0448,2025-03-23,23,3,Março,Q1,S1,2025,12,Domingo,Sim,Normal,Outono
+TMP0449,2025-03-24,24,3,Março,Q1,S1,2025,13,Segunda-Feira,Não,Normal,Outono
+TMP0450,2025-03-25,25,3,Março,Q1,S1,2025,13,Terça-Feira,Não,Normal,Outono
+TMP0451,2025-03-26,26,3,Março,Q1,S1,2025,13,Quarta-Feira,Não,Normal,Outono
+TMP0452,2025-03-27,27,3,Março,Q1,S1,2025,13,Quinta-Feira,Não,Normal,Outono
+TMP0453,2025-03-28,28,3,Março,Q1,S1,2025,13,Sexta-Feira,Não,Normal,Outono
+TMP0454,2025-03-29,29,3,Março,Q1,S1,2025,13,Sábado,Sim,Normal,Outono
+TMP0455,2025-03-30,30,3,Março,Q1,S1,2025,13,Domingo,Sim,Normal,Outono
+TMP0456,2025-03-31,31,3,Março,Q1,S1,2025,14,Segunda-Feira,Não,Normal,Outono
+TMP0457,2025-04-01,1,4,Abril,Q2,S1,2025,14,Terça-Feira,Não,Normal,Outono
+TMP0458,2025-04-02,2,4,Abril,Q2,S1,2025,14,Quarta-Feira,Não,Normal,Outono
+TMP0459,2025-04-03,3,4,Abril,Q2,S1,2025,14,Quinta-Feira,Não,Normal,Outono
+TMP0460,2025-04-04,4,4,Abril,Q2,S1,2025,14,Sexta-Feira,Não,Normal,Outono
+TMP0461,2025-04-05,5,4,Abril,Q2,S1,2025,14,Sábado,Sim,Normal,Outono
+TMP0462,2025-04-06,6,4,Abril,Q2,S1,2025,14,Domingo,Sim,Normal,Outono
+TMP0463,2025-04-07,7,4,Abril,Q2,S1,2025,15,Segunda-Feira,Não,Normal,Outono
+TMP0464,2025-04-08,8,4,Abril,Q2,S1,2025,15,Terça-Feira,Não,Normal,Outono
+TMP0465,2025-04-09,9,4,Abril,Q2,S1,2025,15,Quarta-Feira,Não,Normal,Outono
+TMP0466,2025-04-10,10,4,Abril,Q2,S1,2025,15,Quinta-Feira,Não,Normal,Outono
+TMP0467,2025-04-11,11,4,Abril,Q2,S1,2025,15,Sexta-Feira,Não,Normal,Outono
+TMP0468,2025-04-12,12,4,Abril,Q2,S1,2025,15,Sábado,Sim,Normal,Outono
+TMP0469,2025-04-13,13,4,Abril,Q2,S1,2025,15,Domingo,Sim,Normal,Outono
+TMP0470,2025-04-14,14,4,Abril,Q2,S1,2025,16,Segunda-Feira,Não,Normal,Outono
+TMP0471,2025-04-15,15,4,Abril,Q2,S1,2025,16,Terça-Feira,Não,Normal,Outono
+TMP0472,2025-04-16,16,4,Abril,Q2,S1,2025,16,Quarta-Feira,Não,Normal,Outono
+TMP0473,2025-04-17,17,4,Abril,Q2,S1,2025,16,Quinta-Feira,Não,Normal,Outono
+TMP0474,2025-04-18,18,4,Abril,Q2,S1,2025,16,Sexta-Feira,Não,Normal,Outono
+TMP0475,2025-04-19,19,4,Abril,Q2,S1,2025,16,Sábado,Sim,Normal,Outono
+TMP0476,2025-04-20,20,4,Abril,Q2,S1,2025,16,Domingo,Sim,Normal,Outono
+TMP0477,2025-04-21,21,4,Abril,Q2,S1,2025,17,Segunda-Feira,Não,Normal,Outono
+TMP0478,2025-04-22,22,4,Abril,Q2,S1,2025,17,Terça-Feira,Não,Normal,Outono
+TMP0479,2025-04-23,23,4,Abril,Q2,S1,2025,17,Quarta-Feira,Não,Normal,Outono
+TMP0480,2025-04-24,24,4,Abril,Q2,S1,2025,17,Quinta-Feira,Não,Normal,Outono
+TMP0481,2025-04-25,25,4,Abril,Q2,S1,2025,17,Sexta-Feira,Não,Normal,Outono
+TMP0482,2025-04-26,26,4,Abril,Q2,S1,2025,17,Sábado,Sim,Normal,Outono
+TMP0483,2025-04-27,27,4,Abril,Q2,S1,2025,17,Domingo,Sim,Normal,Outono
+TMP0484,2025-04-28,28,4,Abril,Q2,S1,2025,18,Segunda-Feira,Não,Normal,Outono
+TMP0485,2025-04-29,29,4,Abril,Q2,S1,2025,18,Terça-Feira,Não,Normal,Outono
+TMP0486,2025-04-30,30,4,Abril,Q2,S1,2025,18,Quarta-Feira,Não,Normal,Outono
+TMP0487,2025-05-01,1,5,Maio,Q2,S1,2025,18,Quinta-Feira,Não,Normal,Outono
+TMP0488,2025-05-02,2,5,Maio,Q2,S1,2025,18,Sexta-Feira,Não,Normal,Outono
+TMP0489,2025-05-03,3,5,Maio,Q2,S1,2025,18,Sábado,Sim,Normal,Outono
+TMP0490,2025-05-04,4,5,Maio,Q2,S1,2025,18,Domingo,Sim,Normal,Outono
+TMP0491,2025-05-05,5,5,Maio,Q2,S1,2025,19,Segunda-Feira,Não,Normal,Outono
+TMP0492,2025-05-06,6,5,Maio,Q2,S1,2025,19,Terça-Feira,Não,Normal,Outono
+TMP0493,2025-05-07,7,5,Maio,Q2,S1,2025,19,Quarta-Feira,Não,Normal,Outono
+TMP0494,2025-05-08,8,5,Maio,Q2,S1,2025,19,Quinta-Feira,Não,Normal,Outono
+TMP0495,2025-05-09,9,5,Maio,Q2,S1,2025,19,Sexta-Feira,Não,Normal,Outono
+TMP0496,2025-05-10,10,5,Maio,Q2,S1,2025,19,Sábado,Sim,Normal,Outono
+TMP0497,2025-05-11,11,5,Maio,Q2,S1,2025,19,Domingo,Sim,Normal,Outono
+TMP0498,2025-05-12,12,5,Maio,Q2,S1,2025,20,Segunda-Feira,Não,Normal,Outono
+TMP0499,2025-05-13,13,5,Maio,Q2,S1,2025,20,Terça-Feira,Não,Normal,Outono
+TMP0500,2025-05-14,14,5,Maio,Q2,S1,2025,20,Quarta-Feira,Não,Normal,Outono
+TMP0501,2025-05-15,15,5,Maio,Q2,S1,2025,20,Quinta-Feira,Não,Normal,Outono
+TMP0502,2025-05-16,16,5,Maio,Q2,S1,2025,20,Sexta-Feira,Não,Normal,Outono
+TMP0503,2025-05-17,17,5,Maio,Q2,S1,2025,20,Sábado,Sim,Normal,Outono
+TMP0504,2025-05-18,18,5,Maio,Q2,S1,2025,20,Domingo,Sim,Normal,Outono
+TMP0505,2025-05-19,19,5,Maio,Q2,S1,2025,21,Segunda-Feira,Não,Normal,Outono
+TMP0506,2025-05-20,20,5,Maio,Q2,S1,2025,21,Terça-Feira,Não,Normal,Outono
+TMP0507,2025-05-21,21,5,Maio,Q2,S1,2025,21,Quarta-Feira,Não,Normal,Outono
+TMP0508,2025-05-22,22,5,Maio,Q2,S1,2025,21,Quinta-Feira,Não,Normal,Outono
+TMP0509,2025-05-23,23,5,Maio,Q2,S1,2025,21,Sexta-Feira,Não,Normal,Outono
+TMP0510,2025-05-24,24,5,Maio,Q2,S1,2025,21,Sábado,Sim,Normal,Outono
+TMP0511,2025-05-25,25,5,Maio,Q2,S1,2025,21,Domingo,Sim,Normal,Outono
+TMP0512,2025-05-26,26,5,Maio,Q2,S1,2025,22,Segunda-Feira,Não,Normal,Outono
+TMP0513,2025-05-27,27,5,Maio,Q2,S1,2025,22,Terça-Feira,Não,Normal,Outono
+TMP0514,2025-05-28,28,5,Maio,Q2,S1,2025,22,Quarta-Feira,Não,Normal,Outono
+TMP0515,2025-05-29,29,5,Maio,Q2,S1,2025,22,Quinta-Feira,Não,Normal,Outono
+TMP0516,2025-05-30,30,5,Maio,Q2,S1,2025,22,Sexta-Feira,Não,Normal,Outono
+TMP0517,2025-05-31,31,5,Maio,Q2,S1,2025,22,Sábado,Sim,Normal,Outono
+TMP0518,2025-06-01,1,6,Junho,Q2,S1,2025,22,Domingo,Sim,Semana Gamer,Inverno
+TMP0519,2025-06-02,2,6,Junho,Q2,S1,2025,23,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0520,2025-06-03,3,6,Junho,Q2,S1,2025,23,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0521,2025-06-04,4,6,Junho,Q2,S1,2025,23,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0522,2025-06-05,5,6,Junho,Q2,S1,2025,23,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0523,2025-06-06,6,6,Junho,Q2,S1,2025,23,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0524,2025-06-07,7,6,Junho,Q2,S1,2025,23,Sábado,Sim,Semana Gamer,Inverno
+TMP0525,2025-06-08,8,6,Junho,Q2,S1,2025,23,Domingo,Sim,Semana Gamer,Inverno
+TMP0526,2025-06-09,9,6,Junho,Q2,S1,2025,24,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0527,2025-06-10,10,6,Junho,Q2,S1,2025,24,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0528,2025-06-11,11,6,Junho,Q2,S1,2025,24,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0529,2025-06-12,12,6,Junho,Q2,S1,2025,24,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0530,2025-06-13,13,6,Junho,Q2,S1,2025,24,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0531,2025-06-14,14,6,Junho,Q2,S1,2025,24,Sábado,Sim,Semana Gamer,Inverno
+TMP0532,2025-06-15,15,6,Junho,Q2,S1,2025,24,Domingo,Sim,Semana Gamer,Inverno
+TMP0533,2025-06-16,16,6,Junho,Q2,S1,2025,25,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0534,2025-06-17,17,6,Junho,Q2,S1,2025,25,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0535,2025-06-18,18,6,Junho,Q2,S1,2025,25,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0536,2025-06-19,19,6,Junho,Q2,S1,2025,25,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0537,2025-06-20,20,6,Junho,Q2,S1,2025,25,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0538,2025-06-21,21,6,Junho,Q2,S1,2025,25,Sábado,Sim,Semana Gamer,Inverno
+TMP0539,2025-06-22,22,6,Junho,Q2,S1,2025,25,Domingo,Sim,Semana Gamer,Inverno
+TMP0540,2025-06-23,23,6,Junho,Q2,S1,2025,26,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0541,2025-06-24,24,6,Junho,Q2,S1,2025,26,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0542,2025-06-25,25,6,Junho,Q2,S1,2025,26,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0543,2025-06-26,26,6,Junho,Q2,S1,2025,26,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0544,2025-06-27,27,6,Junho,Q2,S1,2025,26,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0545,2025-06-28,28,6,Junho,Q2,S1,2025,26,Sábado,Sim,Semana Gamer,Inverno
+TMP0546,2025-06-29,29,6,Junho,Q2,S1,2025,26,Domingo,Sim,Semana Gamer,Inverno
+TMP0547,2025-06-30,30,6,Junho,Q2,S1,2025,27,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0548,2025-07-01,1,7,Julho,Q3,S2,2025,27,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0549,2025-07-02,2,7,Julho,Q3,S2,2025,27,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0550,2025-07-03,3,7,Julho,Q3,S2,2025,27,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0551,2025-07-04,4,7,Julho,Q3,S2,2025,27,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0552,2025-07-05,5,7,Julho,Q3,S2,2025,27,Sábado,Sim,Semana Gamer,Inverno
+TMP0553,2025-07-06,6,7,Julho,Q3,S2,2025,27,Domingo,Sim,Semana Gamer,Inverno
+TMP0554,2025-07-07,7,7,Julho,Q3,S2,2025,28,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0555,2025-07-08,8,7,Julho,Q3,S2,2025,28,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0556,2025-07-09,9,7,Julho,Q3,S2,2025,28,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0557,2025-07-10,10,7,Julho,Q3,S2,2025,28,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0558,2025-07-11,11,7,Julho,Q3,S2,2025,28,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0559,2025-07-12,12,7,Julho,Q3,S2,2025,28,Sábado,Sim,Semana Gamer,Inverno
+TMP0560,2025-07-13,13,7,Julho,Q3,S2,2025,28,Domingo,Sim,Semana Gamer,Inverno
+TMP0561,2025-07-14,14,7,Julho,Q3,S2,2025,29,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0562,2025-07-15,15,7,Julho,Q3,S2,2025,29,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0563,2025-07-16,16,7,Julho,Q3,S2,2025,29,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0564,2025-07-17,17,7,Julho,Q3,S2,2025,29,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0565,2025-07-18,18,7,Julho,Q3,S2,2025,29,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0566,2025-07-19,19,7,Julho,Q3,S2,2025,29,Sábado,Sim,Semana Gamer,Inverno
+TMP0567,2025-07-20,20,7,Julho,Q3,S2,2025,29,Domingo,Sim,Semana Gamer,Inverno
+TMP0568,2025-07-21,21,7,Julho,Q3,S2,2025,30,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0569,2025-07-22,22,7,Julho,Q3,S2,2025,30,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0570,2025-07-23,23,7,Julho,Q3,S2,2025,30,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0571,2025-07-24,24,7,Julho,Q3,S2,2025,30,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0572,2025-07-25,25,7,Julho,Q3,S2,2025,30,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0573,2025-07-26,26,7,Julho,Q3,S2,2025,30,Sábado,Sim,Semana Gamer,Inverno
+TMP0574,2025-07-27,27,7,Julho,Q3,S2,2025,30,Domingo,Sim,Semana Gamer,Inverno
+TMP0575,2025-07-28,28,7,Julho,Q3,S2,2025,31,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0576,2025-07-29,29,7,Julho,Q3,S2,2025,31,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0577,2025-07-30,30,7,Julho,Q3,S2,2025,31,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0578,2025-07-31,31,7,Julho,Q3,S2,2025,31,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0579,2025-08-01,1,8,Agosto,Q3,S2,2025,31,Sexta-Feira,Não,Normal,Inverno
+TMP0580,2025-08-02,2,8,Agosto,Q3,S2,2025,31,Sábado,Sim,Normal,Inverno
+TMP0581,2025-08-03,3,8,Agosto,Q3,S2,2025,31,Domingo,Sim,Normal,Inverno
+TMP0582,2025-08-04,4,8,Agosto,Q3,S2,2025,32,Segunda-Feira,Não,Normal,Inverno
+TMP0583,2025-08-05,5,8,Agosto,Q3,S2,2025,32,Terça-Feira,Não,Normal,Inverno
+TMP0584,2025-08-06,6,8,Agosto,Q3,S2,2025,32,Quarta-Feira,Não,Normal,Inverno
+TMP0585,2025-08-07,7,8,Agosto,Q3,S2,2025,32,Quinta-Feira,Não,Normal,Inverno
+TMP0586,2025-08-08,8,8,Agosto,Q3,S2,2025,32,Sexta-Feira,Não,Normal,Inverno
+TMP0587,2025-08-09,9,8,Agosto,Q3,S2,2025,32,Sábado,Sim,Normal,Inverno
+TMP0588,2025-08-10,10,8,Agosto,Q3,S2,2025,32,Domingo,Sim,Normal,Inverno
+TMP0589,2025-08-11,11,8,Agosto,Q3,S2,2025,33,Segunda-Feira,Não,Normal,Inverno
+TMP0590,2025-08-12,12,8,Agosto,Q3,S2,2025,33,Terça-Feira,Não,Normal,Inverno
+TMP0591,2025-08-13,13,8,Agosto,Q3,S2,2025,33,Quarta-Feira,Não,Normal,Inverno
+TMP0592,2025-08-14,14,8,Agosto,Q3,S2,2025,33,Quinta-Feira,Não,Normal,Inverno
+TMP0593,2025-08-15,15,8,Agosto,Q3,S2,2025,33,Sexta-Feira,Não,Normal,Inverno
+TMP0594,2025-08-16,16,8,Agosto,Q3,S2,2025,33,Sábado,Sim,Normal,Inverno
+TMP0595,2025-08-17,17,8,Agosto,Q3,S2,2025,33,Domingo,Sim,Normal,Inverno
+TMP0596,2025-08-18,18,8,Agosto,Q3,S2,2025,34,Segunda-Feira,Não,Normal,Inverno
+TMP0597,2025-08-19,19,8,Agosto,Q3,S2,2025,34,Terça-Feira,Não,Normal,Inverno
+TMP0598,2025-08-20,20,8,Agosto,Q3,S2,2025,34,Quarta-Feira,Não,Normal,Inverno
+TMP0599,2025-08-21,21,8,Agosto,Q3,S2,2025,34,Quinta-Feira,Não,Normal,Inverno
+TMP0600,2025-08-22,22,8,Agosto,Q3,S2,2025,34,Sexta-Feira,Não,Normal,Inverno
+TMP0601,2025-08-23,23,8,Agosto,Q3,S2,2025,34,Sábado,Sim,Normal,Inverno
+TMP0602,2025-08-24,24,8,Agosto,Q3,S2,2025,34,Domingo,Sim,Normal,Inverno
+TMP0603,2025-08-25,25,8,Agosto,Q3,S2,2025,35,Segunda-Feira,Não,Normal,Inverno
+TMP0604,2025-08-26,26,8,Agosto,Q3,S2,2025,35,Terça-Feira,Não,Normal,Inverno
+TMP0605,2025-08-27,27,8,Agosto,Q3,S2,2025,35,Quarta-Feira,Não,Normal,Inverno
+TMP0606,2025-08-28,28,8,Agosto,Q3,S2,2025,35,Quinta-Feira,Não,Normal,Inverno
+TMP0607,2025-08-29,29,8,Agosto,Q3,S2,2025,35,Sexta-Feira,Não,Normal,Inverno
+TMP0608,2025-08-30,30,8,Agosto,Q3,S2,2025,35,Sábado,Sim,Normal,Inverno
+TMP0609,2025-08-31,31,8,Agosto,Q3,S2,2025,35,Domingo,Sim,Normal,Inverno
+TMP0610,2025-09-01,1,9,Setembro,Q3,S2,2025,36,Segunda-Feira,Não,Normal,Primavera
+TMP0611,2025-09-02,2,9,Setembro,Q3,S2,2025,36,Terça-Feira,Não,Normal,Primavera
+TMP0612,2025-09-03,3,9,Setembro,Q3,S2,2025,36,Quarta-Feira,Não,Normal,Primavera
+TMP0613,2025-09-04,4,9,Setembro,Q3,S2,2025,36,Quinta-Feira,Não,Normal,Primavera
+TMP0614,2025-09-05,5,9,Setembro,Q3,S2,2025,36,Sexta-Feira,Não,Normal,Primavera
+TMP0615,2025-09-06,6,9,Setembro,Q3,S2,2025,36,Sábado,Sim,Normal,Primavera
+TMP0616,2025-09-07,7,9,Setembro,Q3,S2,2025,36,Domingo,Sim,Normal,Primavera
+TMP0617,2025-09-08,8,9,Setembro,Q3,S2,2025,37,Segunda-Feira,Não,Normal,Primavera
+TMP0618,2025-09-09,9,9,Setembro,Q3,S2,2025,37,Terça-Feira,Não,Normal,Primavera
+TMP0619,2025-09-10,10,9,Setembro,Q3,S2,2025,37,Quarta-Feira,Não,Normal,Primavera
+TMP0620,2025-09-11,11,9,Setembro,Q3,S2,2025,37,Quinta-Feira,Não,Normal,Primavera
+TMP0621,2025-09-12,12,9,Setembro,Q3,S2,2025,37,Sexta-Feira,Não,Normal,Primavera
+TMP0622,2025-09-13,13,9,Setembro,Q3,S2,2025,37,Sábado,Sim,Normal,Primavera
+TMP0623,2025-09-14,14,9,Setembro,Q3,S2,2025,37,Domingo,Sim,Normal,Primavera
+TMP0624,2025-09-15,15,9,Setembro,Q3,S2,2025,38,Segunda-Feira,Não,Normal,Primavera
+TMP0625,2025-09-16,16,9,Setembro,Q3,S2,2025,38,Terça-Feira,Não,Normal,Primavera
+TMP0626,2025-09-17,17,9,Setembro,Q3,S2,2025,38,Quarta-Feira,Não,Normal,Primavera
+TMP0627,2025-09-18,18,9,Setembro,Q3,S2,2025,38,Quinta-Feira,Não,Normal,Primavera
+TMP0628,2025-09-19,19,9,Setembro,Q3,S2,2025,38,Sexta-Feira,Não,Normal,Primavera
+TMP0629,2025-09-20,20,9,Setembro,Q3,S2,2025,38,Sábado,Sim,Normal,Primavera
+TMP0630,2025-09-21,21,9,Setembro,Q3,S2,2025,38,Domingo,Sim,Normal,Primavera
+TMP0631,2025-09-22,22,9,Setembro,Q3,S2,2025,39,Segunda-Feira,Não,Normal,Primavera
+TMP0632,2025-09-23,23,9,Setembro,Q3,S2,2025,39,Terça-Feira,Não,Normal,Primavera
+TMP0633,2025-09-24,24,9,Setembro,Q3,S2,2025,39,Quarta-Feira,Não,Normal,Primavera
+TMP0634,2025-09-25,25,9,Setembro,Q3,S2,2025,39,Quinta-Feira,Não,Normal,Primavera
+TMP0635,2025-09-26,26,9,Setembro,Q3,S2,2025,39,Sexta-Feira,Não,Normal,Primavera
+TMP0636,2025-09-27,27,9,Setembro,Q3,S2,2025,39,Sábado,Sim,Normal,Primavera
+TMP0637,2025-09-28,28,9,Setembro,Q3,S2,2025,39,Domingo,Sim,Normal,Primavera
+TMP0638,2025-09-29,29,9,Setembro,Q3,S2,2025,40,Segunda-Feira,Não,Normal,Primavera
+TMP0639,2025-09-30,30,9,Setembro,Q3,S2,2025,40,Terça-Feira,Não,Normal,Primavera
+TMP0640,2025-10-01,1,10,Outubro,Q4,S2,2025,40,Quarta-Feira,Não,Normal,Primavera
+TMP0641,2025-10-02,2,10,Outubro,Q4,S2,2025,40,Quinta-Feira,Não,Normal,Primavera
+TMP0642,2025-10-03,3,10,Outubro,Q4,S2,2025,40,Sexta-Feira,Não,Normal,Primavera
+TMP0643,2025-10-04,4,10,Outubro,Q4,S2,2025,40,Sábado,Sim,Normal,Primavera
+TMP0644,2025-10-05,5,10,Outubro,Q4,S2,2025,40,Domingo,Sim,Normal,Primavera
+TMP0645,2025-10-06,6,10,Outubro,Q4,S2,2025,41,Segunda-Feira,Não,Normal,Primavera
+TMP0646,2025-10-07,7,10,Outubro,Q4,S2,2025,41,Terça-Feira,Não,Normal,Primavera
+TMP0647,2025-10-08,8,10,Outubro,Q4,S2,2025,41,Quarta-Feira,Não,Normal,Primavera
+TMP0648,2025-10-09,9,10,Outubro,Q4,S2,2025,41,Quinta-Feira,Não,Normal,Primavera
+TMP0649,2025-10-10,10,10,Outubro,Q4,S2,2025,41,Sexta-Feira,Não,Normal,Primavera
+TMP0650,2025-10-11,11,10,Outubro,Q4,S2,2025,41,Sábado,Sim,Normal,Primavera
+TMP0651,2025-10-12,12,10,Outubro,Q4,S2,2025,41,Domingo,Sim,Normal,Primavera
+TMP0652,2025-10-13,13,10,Outubro,Q4,S2,2025,42,Segunda-Feira,Não,Normal,Primavera
+TMP0653,2025-10-14,14,10,Outubro,Q4,S2,2025,42,Terça-Feira,Não,Normal,Primavera
+TMP0654,2025-10-15,15,10,Outubro,Q4,S2,2025,42,Quarta-Feira,Não,Normal,Primavera
+TMP0655,2025-10-16,16,10,Outubro,Q4,S2,2025,42,Quinta-Feira,Não,Normal,Primavera
+TMP0656,2025-10-17,17,10,Outubro,Q4,S2,2025,42,Sexta-Feira,Não,Normal,Primavera
+TMP0657,2025-10-18,18,10,Outubro,Q4,S2,2025,42,Sábado,Sim,Normal,Primavera
+TMP0658,2025-10-19,19,10,Outubro,Q4,S2,2025,42,Domingo,Sim,Normal,Primavera
+TMP0659,2025-10-20,20,10,Outubro,Q4,S2,2025,43,Segunda-Feira,Não,Normal,Primavera
+TMP0660,2025-10-21,21,10,Outubro,Q4,S2,2025,43,Terça-Feira,Não,Normal,Primavera
+TMP0661,2025-10-22,22,10,Outubro,Q4,S2,2025,43,Quarta-Feira,Não,Normal,Primavera
+TMP0662,2025-10-23,23,10,Outubro,Q4,S2,2025,43,Quinta-Feira,Não,Normal,Primavera
+TMP0663,2025-10-24,24,10,Outubro,Q4,S2,2025,43,Sexta-Feira,Não,Normal,Primavera
+TMP0664,2025-10-25,25,10,Outubro,Q4,S2,2025,43,Sábado,Sim,Normal,Primavera
+TMP0665,2025-10-26,26,10,Outubro,Q4,S2,2025,43,Domingo,Sim,Normal,Primavera
+TMP0666,2025-10-27,27,10,Outubro,Q4,S2,2025,44,Segunda-Feira,Não,Normal,Primavera
+TMP0667,2025-10-28,28,10,Outubro,Q4,S2,2025,44,Terça-Feira,Não,Normal,Primavera
+TMP0668,2025-10-29,29,10,Outubro,Q4,S2,2025,44,Quarta-Feira,Não,Normal,Primavera
+TMP0669,2025-10-30,30,10,Outubro,Q4,S2,2025,44,Quinta-Feira,Não,Normal,Primavera
+TMP0670,2025-10-31,31,10,Outubro,Q4,S2,2025,44,Sexta-Feira,Não,Normal,Primavera
+TMP0671,2025-11-01,1,11,Novembro,Q4,S2,2025,44,Sábado,Sim,Normal,Primavera
+TMP0672,2025-11-02,2,11,Novembro,Q4,S2,2025,44,Domingo,Sim,Normal,Primavera
+TMP0673,2025-11-03,3,11,Novembro,Q4,S2,2025,45,Segunda-Feira,Não,Normal,Primavera
+TMP0674,2025-11-04,4,11,Novembro,Q4,S2,2025,45,Terça-Feira,Não,Normal,Primavera
+TMP0675,2025-11-05,5,11,Novembro,Q4,S2,2025,45,Quarta-Feira,Não,Normal,Primavera
+TMP0676,2025-11-06,6,11,Novembro,Q4,S2,2025,45,Quinta-Feira,Não,Normal,Primavera
+TMP0677,2025-11-07,7,11,Novembro,Q4,S2,2025,45,Sexta-Feira,Não,Normal,Primavera
+TMP0678,2025-11-08,8,11,Novembro,Q4,S2,2025,45,Sábado,Sim,Normal,Primavera
+TMP0679,2025-11-09,9,11,Novembro,Q4,S2,2025,45,Domingo,Sim,Normal,Primavera
+TMP0680,2025-11-10,10,11,Novembro,Q4,S2,2025,46,Segunda-Feira,Não,Normal,Primavera
+TMP0681,2025-11-11,11,11,Novembro,Q4,S2,2025,46,Terça-Feira,Não,Normal,Primavera
+TMP0682,2025-11-12,12,11,Novembro,Q4,S2,2025,46,Quarta-Feira,Não,Normal,Primavera
+TMP0683,2025-11-13,13,11,Novembro,Q4,S2,2025,46,Quinta-Feira,Não,Normal,Primavera
+TMP0684,2025-11-14,14,11,Novembro,Q4,S2,2025,46,Sexta-Feira,Não,Normal,Primavera
+TMP0685,2025-11-15,15,11,Novembro,Q4,S2,2025,46,Sábado,Sim,Normal,Primavera
+TMP0686,2025-11-16,16,11,Novembro,Q4,S2,2025,46,Domingo,Sim,Normal,Primavera
+TMP0687,2025-11-17,17,11,Novembro,Q4,S2,2025,47,Segunda-Feira,Não,Normal,Primavera
+TMP0688,2025-11-18,18,11,Novembro,Q4,S2,2025,47,Terça-Feira,Não,Normal,Primavera
+TMP0689,2025-11-19,19,11,Novembro,Q4,S2,2025,47,Quarta-Feira,Não,Normal,Primavera
+TMP0690,2025-11-20,20,11,Novembro,Q4,S2,2025,47,Quinta-Feira,Não,Normal,Primavera
+TMP0691,2025-11-21,21,11,Novembro,Q4,S2,2025,47,Sexta-Feira,Não,Normal,Primavera
+TMP0692,2025-11-22,22,11,Novembro,Q4,S2,2025,47,Sábado,Sim,Normal,Primavera
+TMP0693,2025-11-23,23,11,Novembro,Q4,S2,2025,47,Domingo,Sim,Normal,Primavera
+TMP0694,2025-11-24,24,11,Novembro,Q4,S2,2025,48,Segunda-Feira,Não,Normal,Primavera
+TMP0695,2025-11-25,25,11,Novembro,Q4,S2,2025,48,Terça-Feira,Não,Black Friday,Primavera
+TMP0696,2025-11-26,26,11,Novembro,Q4,S2,2025,48,Quarta-Feira,Não,Black Friday,Primavera
+TMP0697,2025-11-27,27,11,Novembro,Q4,S2,2025,48,Quinta-Feira,Não,Black Friday,Primavera
+TMP0698,2025-11-28,28,11,Novembro,Q4,S2,2025,48,Sexta-Feira,Não,Black Friday,Primavera
+TMP0699,2025-11-29,29,11,Novembro,Q4,S2,2025,48,Sábado,Sim,Black Friday,Primavera
+TMP0700,2025-11-30,30,11,Novembro,Q4,S2,2025,48,Domingo,Sim,Black Friday,Primavera
+TMP0701,2025-12-01,1,12,Dezembro,Q4,S2,2025,49,Segunda-Feira,Não,Natal,Verão
+TMP0702,2025-12-02,2,12,Dezembro,Q4,S2,2025,49,Terça-Feira,Não,Natal,Verão
+TMP0703,2025-12-03,3,12,Dezembro,Q4,S2,2025,49,Quarta-Feira,Não,Natal,Verão
+TMP0704,2025-12-04,4,12,Dezembro,Q4,S2,2025,49,Quinta-Feira,Não,Natal,Verão
+TMP0705,2025-12-05,5,12,Dezembro,Q4,S2,2025,49,Sexta-Feira,Não,Natal,Verão
+TMP0706,2025-12-06,6,12,Dezembro,Q4,S2,2025,49,Sábado,Sim,Natal,Verão
+TMP0707,2025-12-07,7,12,Dezembro,Q4,S2,2025,49,Domingo,Sim,Natal,Verão
+TMP0708,2025-12-08,8,12,Dezembro,Q4,S2,2025,50,Segunda-Feira,Não,Natal,Verão
+TMP0709,2025-12-09,9,12,Dezembro,Q4,S2,2025,50,Terça-Feira,Não,Natal,Verão
+TMP0710,2025-12-10,10,12,Dezembro,Q4,S2,2025,50,Quarta-Feira,Não,Natal,Verão
+TMP0711,2025-12-11,11,12,Dezembro,Q4,S2,2025,50,Quinta-Feira,Não,Natal,Verão
+TMP0712,2025-12-12,12,12,Dezembro,Q4,S2,2025,50,Sexta-Feira,Não,Natal,Verão
+TMP0713,2025-12-13,13,12,Dezembro,Q4,S2,2025,50,Sábado,Sim,Natal,Verão
+TMP0714,2025-12-14,14,12,Dezembro,Q4,S2,2025,50,Domingo,Sim,Natal,Verão
+TMP0715,2025-12-15,15,12,Dezembro,Q4,S2,2025,51,Segunda-Feira,Não,Natal,Verão
+TMP0716,2025-12-16,16,12,Dezembro,Q4,S2,2025,51,Terça-Feira,Não,Natal,Verão
+TMP0717,2025-12-17,17,12,Dezembro,Q4,S2,2025,51,Quarta-Feira,Não,Natal,Verão
+TMP0718,2025-12-18,18,12,Dezembro,Q4,S2,2025,51,Quinta-Feira,Não,Natal,Verão
+TMP0719,2025-12-19,19,12,Dezembro,Q4,S2,2025,51,Sexta-Feira,Não,Natal,Verão
+TMP0720,2025-12-20,20,12,Dezembro,Q4,S2,2025,51,Sábado,Sim,Natal,Verão
+TMP0721,2025-12-21,21,12,Dezembro,Q4,S2,2025,51,Domingo,Sim,Natal,Verão
+TMP0722,2025-12-22,22,12,Dezembro,Q4,S2,2025,52,Segunda-Feira,Não,Natal,Verão
+TMP0723,2025-12-23,23,12,Dezembro,Q4,S2,2025,52,Terça-Feira,Não,Natal,Verão
+TMP0724,2025-12-24,24,12,Dezembro,Q4,S2,2025,52,Quarta-Feira,Não,Natal,Verão
+TMP0725,2025-12-25,25,12,Dezembro,Q4,S2,2025,52,Quinta-Feira,Não,Natal,Verão
+TMP0726,2025-12-26,26,12,Dezembro,Q4,S2,2025,52,Sexta-Feira,Não,Natal,Verão
+TMP0727,2025-12-27,27,12,Dezembro,Q4,S2,2025,52,Sábado,Sim,Natal,Verão
+TMP0728,2025-12-28,28,12,Dezembro,Q4,S2,2025,52,Domingo,Sim,Natal,Verão
+TMP0729,2025-12-29,29,12,Dezembro,Q4,S2,2025,1,Segunda-Feira,Não,Natal,Verão
+TMP0730,2025-12-30,30,12,Dezembro,Q4,S2,2025,1,Terça-Feira,Não,Natal,Verão
+TMP0731,2025-12-31,31,12,Dezembro,Q4,S2,2025,1,Quarta-Feira,Não,Natal,Verão
+TMP0732,2026-01-01,1,1,Janeiro,Q1,S1,2026,1,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0733,2026-01-02,2,1,Janeiro,Q1,S1,2026,1,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0734,2026-01-03,3,1,Janeiro,Q1,S1,2026,1,Sábado,Sim,Pós-Natal,Verão
+TMP0735,2026-01-04,4,1,Janeiro,Q1,S1,2026,1,Domingo,Sim,Pós-Natal,Verão
+TMP0736,2026-01-05,5,1,Janeiro,Q1,S1,2026,2,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0737,2026-01-06,6,1,Janeiro,Q1,S1,2026,2,Terça-Feira,Não,Pós-Natal,Verão
+TMP0738,2026-01-07,7,1,Janeiro,Q1,S1,2026,2,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0739,2026-01-08,8,1,Janeiro,Q1,S1,2026,2,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0740,2026-01-09,9,1,Janeiro,Q1,S1,2026,2,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0741,2026-01-10,10,1,Janeiro,Q1,S1,2026,2,Sábado,Sim,Pós-Natal,Verão
+TMP0742,2026-01-11,11,1,Janeiro,Q1,S1,2026,2,Domingo,Sim,Pós-Natal,Verão
+TMP0743,2026-01-12,12,1,Janeiro,Q1,S1,2026,3,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0744,2026-01-13,13,1,Janeiro,Q1,S1,2026,3,Terça-Feira,Não,Pós-Natal,Verão
+TMP0745,2026-01-14,14,1,Janeiro,Q1,S1,2026,3,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0746,2026-01-15,15,1,Janeiro,Q1,S1,2026,3,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0747,2026-01-16,16,1,Janeiro,Q1,S1,2026,3,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0748,2026-01-17,17,1,Janeiro,Q1,S1,2026,3,Sábado,Sim,Pós-Natal,Verão
+TMP0749,2026-01-18,18,1,Janeiro,Q1,S1,2026,3,Domingo,Sim,Pós-Natal,Verão
+TMP0750,2026-01-19,19,1,Janeiro,Q1,S1,2026,4,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0751,2026-01-20,20,1,Janeiro,Q1,S1,2026,4,Terça-Feira,Não,Pós-Natal,Verão
+TMP0752,2026-01-21,21,1,Janeiro,Q1,S1,2026,4,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0753,2026-01-22,22,1,Janeiro,Q1,S1,2026,4,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0754,2026-01-23,23,1,Janeiro,Q1,S1,2026,4,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0755,2026-01-24,24,1,Janeiro,Q1,S1,2026,4,Sábado,Sim,Pós-Natal,Verão
+TMP0756,2026-01-25,25,1,Janeiro,Q1,S1,2026,4,Domingo,Sim,Pós-Natal,Verão
+TMP0757,2026-01-26,26,1,Janeiro,Q1,S1,2026,5,Segunda-Feira,Não,Pós-Natal,Verão
+TMP0758,2026-01-27,27,1,Janeiro,Q1,S1,2026,5,Terça-Feira,Não,Pós-Natal,Verão
+TMP0759,2026-01-28,28,1,Janeiro,Q1,S1,2026,5,Quarta-Feira,Não,Pós-Natal,Verão
+TMP0760,2026-01-29,29,1,Janeiro,Q1,S1,2026,5,Quinta-Feira,Não,Pós-Natal,Verão
+TMP0761,2026-01-30,30,1,Janeiro,Q1,S1,2026,5,Sexta-Feira,Não,Pós-Natal,Verão
+TMP0762,2026-01-31,31,1,Janeiro,Q1,S1,2026,5,Sábado,Sim,Pós-Natal,Verão
+TMP0763,2026-02-01,1,2,Fevereiro,Q1,S1,2026,5,Domingo,Sim,Normal,Verão
+TMP0764,2026-02-02,2,2,Fevereiro,Q1,S1,2026,6,Segunda-Feira,Não,Normal,Verão
+TMP0765,2026-02-03,3,2,Fevereiro,Q1,S1,2026,6,Terça-Feira,Não,Normal,Verão
+TMP0766,2026-02-04,4,2,Fevereiro,Q1,S1,2026,6,Quarta-Feira,Não,Normal,Verão
+TMP0767,2026-02-05,5,2,Fevereiro,Q1,S1,2026,6,Quinta-Feira,Não,Normal,Verão
+TMP0768,2026-02-06,6,2,Fevereiro,Q1,S1,2026,6,Sexta-Feira,Não,Normal,Verão
+TMP0769,2026-02-07,7,2,Fevereiro,Q1,S1,2026,6,Sábado,Sim,Normal,Verão
+TMP0770,2026-02-08,8,2,Fevereiro,Q1,S1,2026,6,Domingo,Sim,Normal,Verão
+TMP0771,2026-02-09,9,2,Fevereiro,Q1,S1,2026,7,Segunda-Feira,Não,Normal,Verão
+TMP0772,2026-02-10,10,2,Fevereiro,Q1,S1,2026,7,Terça-Feira,Não,Normal,Verão
+TMP0773,2026-02-11,11,2,Fevereiro,Q1,S1,2026,7,Quarta-Feira,Não,Normal,Verão
+TMP0774,2026-02-12,12,2,Fevereiro,Q1,S1,2026,7,Quinta-Feira,Não,Normal,Verão
+TMP0775,2026-02-13,13,2,Fevereiro,Q1,S1,2026,7,Sexta-Feira,Não,Normal,Verão
+TMP0776,2026-02-14,14,2,Fevereiro,Q1,S1,2026,7,Sábado,Sim,Normal,Verão
+TMP0777,2026-02-15,15,2,Fevereiro,Q1,S1,2026,7,Domingo,Sim,Normal,Verão
+TMP0778,2026-02-16,16,2,Fevereiro,Q1,S1,2026,8,Segunda-Feira,Não,Normal,Verão
+TMP0779,2026-02-17,17,2,Fevereiro,Q1,S1,2026,8,Terça-Feira,Não,Normal,Verão
+TMP0780,2026-02-18,18,2,Fevereiro,Q1,S1,2026,8,Quarta-Feira,Não,Normal,Verão
+TMP0781,2026-02-19,19,2,Fevereiro,Q1,S1,2026,8,Quinta-Feira,Não,Normal,Verão
+TMP0782,2026-02-20,20,2,Fevereiro,Q1,S1,2026,8,Sexta-Feira,Não,Normal,Verão
+TMP0783,2026-02-21,21,2,Fevereiro,Q1,S1,2026,8,Sábado,Sim,Normal,Verão
+TMP0784,2026-02-22,22,2,Fevereiro,Q1,S1,2026,8,Domingo,Sim,Normal,Verão
+TMP0785,2026-02-23,23,2,Fevereiro,Q1,S1,2026,9,Segunda-Feira,Não,Normal,Verão
+TMP0786,2026-02-24,24,2,Fevereiro,Q1,S1,2026,9,Terça-Feira,Não,Normal,Verão
+TMP0787,2026-02-25,25,2,Fevereiro,Q1,S1,2026,9,Quarta-Feira,Não,Normal,Verão
+TMP0788,2026-02-26,26,2,Fevereiro,Q1,S1,2026,9,Quinta-Feira,Não,Normal,Verão
+TMP0789,2026-02-27,27,2,Fevereiro,Q1,S1,2026,9,Sexta-Feira,Não,Normal,Verão
+TMP0790,2026-02-28,28,2,Fevereiro,Q1,S1,2026,9,Sábado,Sim,Normal,Verão
+TMP0791,2026-03-01,1,3,Março,Q1,S1,2026,9,Domingo,Sim,Normal,Outono
+TMP0792,2026-03-02,2,3,Março,Q1,S1,2026,10,Segunda-Feira,Não,Normal,Outono
+TMP0793,2026-03-03,3,3,Março,Q1,S1,2026,10,Terça-Feira,Não,Normal,Outono
+TMP0794,2026-03-04,4,3,Março,Q1,S1,2026,10,Quarta-Feira,Não,Normal,Outono
+TMP0795,2026-03-05,5,3,Março,Q1,S1,2026,10,Quinta-Feira,Não,Normal,Outono
+TMP0796,2026-03-06,6,3,Março,Q1,S1,2026,10,Sexta-Feira,Não,Normal,Outono
+TMP0797,2026-03-07,7,3,Março,Q1,S1,2026,10,Sábado,Sim,Normal,Outono
+TMP0798,2026-03-08,8,3,Março,Q1,S1,2026,10,Domingo,Sim,Normal,Outono
+TMP0799,2026-03-09,9,3,Março,Q1,S1,2026,11,Segunda-Feira,Não,Normal,Outono
+TMP0800,2026-03-10,10,3,Março,Q1,S1,2026,11,Terça-Feira,Não,Normal,Outono
+TMP0801,2026-03-11,11,3,Março,Q1,S1,2026,11,Quarta-Feira,Não,Normal,Outono
+TMP0802,2026-03-12,12,3,Março,Q1,S1,2026,11,Quinta-Feira,Não,Normal,Outono
+TMP0803,2026-03-13,13,3,Março,Q1,S1,2026,11,Sexta-Feira,Não,Normal,Outono
+TMP0804,2026-03-14,14,3,Março,Q1,S1,2026,11,Sábado,Sim,Normal,Outono
+TMP0805,2026-03-15,15,3,Março,Q1,S1,2026,11,Domingo,Sim,Normal,Outono
+TMP0806,2026-03-16,16,3,Março,Q1,S1,2026,12,Segunda-Feira,Não,Normal,Outono
+TMP0807,2026-03-17,17,3,Março,Q1,S1,2026,12,Terça-Feira,Não,Normal,Outono
+TMP0808,2026-03-18,18,3,Março,Q1,S1,2026,12,Quarta-Feira,Não,Normal,Outono
+TMP0809,2026-03-19,19,3,Março,Q1,S1,2026,12,Quinta-Feira,Não,Normal,Outono
+TMP0810,2026-03-20,20,3,Março,Q1,S1,2026,12,Sexta-Feira,Não,Normal,Outono
+TMP0811,2026-03-21,21,3,Março,Q1,S1,2026,12,Sábado,Sim,Normal,Outono
+TMP0812,2026-03-22,22,3,Março,Q1,S1,2026,12,Domingo,Sim,Normal,Outono
+TMP0813,2026-03-23,23,3,Março,Q1,S1,2026,13,Segunda-Feira,Não,Normal,Outono
+TMP0814,2026-03-24,24,3,Março,Q1,S1,2026,13,Terça-Feira,Não,Normal,Outono
+TMP0815,2026-03-25,25,3,Março,Q1,S1,2026,13,Quarta-Feira,Não,Normal,Outono
+TMP0816,2026-03-26,26,3,Março,Q1,S1,2026,13,Quinta-Feira,Não,Normal,Outono
+TMP0817,2026-03-27,27,3,Março,Q1,S1,2026,13,Sexta-Feira,Não,Normal,Outono
+TMP0818,2026-03-28,28,3,Março,Q1,S1,2026,13,Sábado,Sim,Normal,Outono
+TMP0819,2026-03-29,29,3,Março,Q1,S1,2026,13,Domingo,Sim,Normal,Outono
+TMP0820,2026-03-30,30,3,Março,Q1,S1,2026,14,Segunda-Feira,Não,Normal,Outono
+TMP0821,2026-03-31,31,3,Março,Q1,S1,2026,14,Terça-Feira,Não,Normal,Outono
+TMP0822,2026-04-01,1,4,Abril,Q2,S1,2026,14,Quarta-Feira,Não,Normal,Outono
+TMP0823,2026-04-02,2,4,Abril,Q2,S1,2026,14,Quinta-Feira,Não,Normal,Outono
+TMP0824,2026-04-03,3,4,Abril,Q2,S1,2026,14,Sexta-Feira,Não,Normal,Outono
+TMP0825,2026-04-04,4,4,Abril,Q2,S1,2026,14,Sábado,Sim,Normal,Outono
+TMP0826,2026-04-05,5,4,Abril,Q2,S1,2026,14,Domingo,Sim,Normal,Outono
+TMP0827,2026-04-06,6,4,Abril,Q2,S1,2026,15,Segunda-Feira,Não,Normal,Outono
+TMP0828,2026-04-07,7,4,Abril,Q2,S1,2026,15,Terça-Feira,Não,Normal,Outono
+TMP0829,2026-04-08,8,4,Abril,Q2,S1,2026,15,Quarta-Feira,Não,Normal,Outono
+TMP0830,2026-04-09,9,4,Abril,Q2,S1,2026,15,Quinta-Feira,Não,Normal,Outono
+TMP0831,2026-04-10,10,4,Abril,Q2,S1,2026,15,Sexta-Feira,Não,Normal,Outono
+TMP0832,2026-04-11,11,4,Abril,Q2,S1,2026,15,Sábado,Sim,Normal,Outono
+TMP0833,2026-04-12,12,4,Abril,Q2,S1,2026,15,Domingo,Sim,Normal,Outono
+TMP0834,2026-04-13,13,4,Abril,Q2,S1,2026,16,Segunda-Feira,Não,Normal,Outono
+TMP0835,2026-04-14,14,4,Abril,Q2,S1,2026,16,Terça-Feira,Não,Normal,Outono
+TMP0836,2026-04-15,15,4,Abril,Q2,S1,2026,16,Quarta-Feira,Não,Normal,Outono
+TMP0837,2026-04-16,16,4,Abril,Q2,S1,2026,16,Quinta-Feira,Não,Normal,Outono
+TMP0838,2026-04-17,17,4,Abril,Q2,S1,2026,16,Sexta-Feira,Não,Normal,Outono
+TMP0839,2026-04-18,18,4,Abril,Q2,S1,2026,16,Sábado,Sim,Normal,Outono
+TMP0840,2026-04-19,19,4,Abril,Q2,S1,2026,16,Domingo,Sim,Normal,Outono
+TMP0841,2026-04-20,20,4,Abril,Q2,S1,2026,17,Segunda-Feira,Não,Normal,Outono
+TMP0842,2026-04-21,21,4,Abril,Q2,S1,2026,17,Terça-Feira,Não,Normal,Outono
+TMP0843,2026-04-22,22,4,Abril,Q2,S1,2026,17,Quarta-Feira,Não,Normal,Outono
+TMP0844,2026-04-23,23,4,Abril,Q2,S1,2026,17,Quinta-Feira,Não,Normal,Outono
+TMP0845,2026-04-24,24,4,Abril,Q2,S1,2026,17,Sexta-Feira,Não,Normal,Outono
+TMP0846,2026-04-25,25,4,Abril,Q2,S1,2026,17,Sábado,Sim,Normal,Outono
+TMP0847,2026-04-26,26,4,Abril,Q2,S1,2026,17,Domingo,Sim,Normal,Outono
+TMP0848,2026-04-27,27,4,Abril,Q2,S1,2026,18,Segunda-Feira,Não,Normal,Outono
+TMP0849,2026-04-28,28,4,Abril,Q2,S1,2026,18,Terça-Feira,Não,Normal,Outono
+TMP0850,2026-04-29,29,4,Abril,Q2,S1,2026,18,Quarta-Feira,Não,Normal,Outono
+TMP0851,2026-04-30,30,4,Abril,Q2,S1,2026,18,Quinta-Feira,Não,Normal,Outono
+TMP0852,2026-05-01,1,5,Maio,Q2,S1,2026,18,Sexta-Feira,Não,Normal,Outono
+TMP0853,2026-05-02,2,5,Maio,Q2,S1,2026,18,Sábado,Sim,Normal,Outono
+TMP0854,2026-05-03,3,5,Maio,Q2,S1,2026,18,Domingo,Sim,Normal,Outono
+TMP0855,2026-05-04,4,5,Maio,Q2,S1,2026,19,Segunda-Feira,Não,Normal,Outono
+TMP0856,2026-05-05,5,5,Maio,Q2,S1,2026,19,Terça-Feira,Não,Normal,Outono
+TMP0857,2026-05-06,6,5,Maio,Q2,S1,2026,19,Quarta-Feira,Não,Normal,Outono
+TMP0858,2026-05-07,7,5,Maio,Q2,S1,2026,19,Quinta-Feira,Não,Normal,Outono
+TMP0859,2026-05-08,8,5,Maio,Q2,S1,2026,19,Sexta-Feira,Não,Normal,Outono
+TMP0860,2026-05-09,9,5,Maio,Q2,S1,2026,19,Sábado,Sim,Normal,Outono
+TMP0861,2026-05-10,10,5,Maio,Q2,S1,2026,19,Domingo,Sim,Normal,Outono
+TMP0862,2026-05-11,11,5,Maio,Q2,S1,2026,20,Segunda-Feira,Não,Normal,Outono
+TMP0863,2026-05-12,12,5,Maio,Q2,S1,2026,20,Terça-Feira,Não,Normal,Outono
+TMP0864,2026-05-13,13,5,Maio,Q2,S1,2026,20,Quarta-Feira,Não,Normal,Outono
+TMP0865,2026-05-14,14,5,Maio,Q2,S1,2026,20,Quinta-Feira,Não,Normal,Outono
+TMP0866,2026-05-15,15,5,Maio,Q2,S1,2026,20,Sexta-Feira,Não,Normal,Outono
+TMP0867,2026-05-16,16,5,Maio,Q2,S1,2026,20,Sábado,Sim,Normal,Outono
+TMP0868,2026-05-17,17,5,Maio,Q2,S1,2026,20,Domingo,Sim,Normal,Outono
+TMP0869,2026-05-18,18,5,Maio,Q2,S1,2026,21,Segunda-Feira,Não,Normal,Outono
+TMP0870,2026-05-19,19,5,Maio,Q2,S1,2026,21,Terça-Feira,Não,Normal,Outono
+TMP0871,2026-05-20,20,5,Maio,Q2,S1,2026,21,Quarta-Feira,Não,Normal,Outono
+TMP0872,2026-05-21,21,5,Maio,Q2,S1,2026,21,Quinta-Feira,Não,Normal,Outono
+TMP0873,2026-05-22,22,5,Maio,Q2,S1,2026,21,Sexta-Feira,Não,Normal,Outono
+TMP0874,2026-05-23,23,5,Maio,Q2,S1,2026,21,Sábado,Sim,Normal,Outono
+TMP0875,2026-05-24,24,5,Maio,Q2,S1,2026,21,Domingo,Sim,Normal,Outono
+TMP0876,2026-05-25,25,5,Maio,Q2,S1,2026,22,Segunda-Feira,Não,Normal,Outono
+TMP0877,2026-05-26,26,5,Maio,Q2,S1,2026,22,Terça-Feira,Não,Normal,Outono
+TMP0878,2026-05-27,27,5,Maio,Q2,S1,2026,22,Quarta-Feira,Não,Normal,Outono
+TMP0879,2026-05-28,28,5,Maio,Q2,S1,2026,22,Quinta-Feira,Não,Normal,Outono
+TMP0880,2026-05-29,29,5,Maio,Q2,S1,2026,22,Sexta-Feira,Não,Normal,Outono
+TMP0881,2026-05-30,30,5,Maio,Q2,S1,2026,22,Sábado,Sim,Normal,Outono
+TMP0882,2026-05-31,31,5,Maio,Q2,S1,2026,22,Domingo,Sim,Normal,Outono
+TMP0883,2026-06-01,1,6,Junho,Q2,S1,2026,23,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0884,2026-06-02,2,6,Junho,Q2,S1,2026,23,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0885,2026-06-03,3,6,Junho,Q2,S1,2026,23,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0886,2026-06-04,4,6,Junho,Q2,S1,2026,23,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0887,2026-06-05,5,6,Junho,Q2,S1,2026,23,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0888,2026-06-06,6,6,Junho,Q2,S1,2026,23,Sábado,Sim,Semana Gamer,Inverno
+TMP0889,2026-06-07,7,6,Junho,Q2,S1,2026,23,Domingo,Sim,Semana Gamer,Inverno
+TMP0890,2026-06-08,8,6,Junho,Q2,S1,2026,24,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0891,2026-06-09,9,6,Junho,Q2,S1,2026,24,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0892,2026-06-10,10,6,Junho,Q2,S1,2026,24,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0893,2026-06-11,11,6,Junho,Q2,S1,2026,24,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0894,2026-06-12,12,6,Junho,Q2,S1,2026,24,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0895,2026-06-13,13,6,Junho,Q2,S1,2026,24,Sábado,Sim,Semana Gamer,Inverno
+TMP0896,2026-06-14,14,6,Junho,Q2,S1,2026,24,Domingo,Sim,Semana Gamer,Inverno
+TMP0897,2026-06-15,15,6,Junho,Q2,S1,2026,25,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0898,2026-06-16,16,6,Junho,Q2,S1,2026,25,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0899,2026-06-17,17,6,Junho,Q2,S1,2026,25,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0900,2026-06-18,18,6,Junho,Q2,S1,2026,25,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0901,2026-06-19,19,6,Junho,Q2,S1,2026,25,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0902,2026-06-20,20,6,Junho,Q2,S1,2026,25,Sábado,Sim,Semana Gamer,Inverno
+TMP0903,2026-06-21,21,6,Junho,Q2,S1,2026,25,Domingo,Sim,Semana Gamer,Inverno
+TMP0904,2026-06-22,22,6,Junho,Q2,S1,2026,26,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0905,2026-06-23,23,6,Junho,Q2,S1,2026,26,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0906,2026-06-24,24,6,Junho,Q2,S1,2026,26,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0907,2026-06-25,25,6,Junho,Q2,S1,2026,26,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0908,2026-06-26,26,6,Junho,Q2,S1,2026,26,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0909,2026-06-27,27,6,Junho,Q2,S1,2026,26,Sábado,Sim,Semana Gamer,Inverno
+TMP0910,2026-06-28,28,6,Junho,Q2,S1,2026,26,Domingo,Sim,Semana Gamer,Inverno
+TMP0911,2026-06-29,29,6,Junho,Q2,S1,2026,27,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0912,2026-06-30,30,6,Junho,Q2,S1,2026,27,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0913,2026-07-01,1,7,Julho,Q3,S2,2026,27,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0914,2026-07-02,2,7,Julho,Q3,S2,2026,27,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0915,2026-07-03,3,7,Julho,Q3,S2,2026,27,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0916,2026-07-04,4,7,Julho,Q3,S2,2026,27,Sábado,Sim,Semana Gamer,Inverno
+TMP0917,2026-07-05,5,7,Julho,Q3,S2,2026,27,Domingo,Sim,Semana Gamer,Inverno
+TMP0918,2026-07-06,6,7,Julho,Q3,S2,2026,28,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0919,2026-07-07,7,7,Julho,Q3,S2,2026,28,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0920,2026-07-08,8,7,Julho,Q3,S2,2026,28,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0921,2026-07-09,9,7,Julho,Q3,S2,2026,28,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0922,2026-07-10,10,7,Julho,Q3,S2,2026,28,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0923,2026-07-11,11,7,Julho,Q3,S2,2026,28,Sábado,Sim,Semana Gamer,Inverno
+TMP0924,2026-07-12,12,7,Julho,Q3,S2,2026,28,Domingo,Sim,Semana Gamer,Inverno
+TMP0925,2026-07-13,13,7,Julho,Q3,S2,2026,29,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0926,2026-07-14,14,7,Julho,Q3,S2,2026,29,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0927,2026-07-15,15,7,Julho,Q3,S2,2026,29,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0928,2026-07-16,16,7,Julho,Q3,S2,2026,29,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0929,2026-07-17,17,7,Julho,Q3,S2,2026,29,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0930,2026-07-18,18,7,Julho,Q3,S2,2026,29,Sábado,Sim,Semana Gamer,Inverno
+TMP0931,2026-07-19,19,7,Julho,Q3,S2,2026,29,Domingo,Sim,Semana Gamer,Inverno
+TMP0932,2026-07-20,20,7,Julho,Q3,S2,2026,30,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0933,2026-07-21,21,7,Julho,Q3,S2,2026,30,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0934,2026-07-22,22,7,Julho,Q3,S2,2026,30,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0935,2026-07-23,23,7,Julho,Q3,S2,2026,30,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0936,2026-07-24,24,7,Julho,Q3,S2,2026,30,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0937,2026-07-25,25,7,Julho,Q3,S2,2026,30,Sábado,Sim,Semana Gamer,Inverno
+TMP0938,2026-07-26,26,7,Julho,Q3,S2,2026,30,Domingo,Sim,Semana Gamer,Inverno
+TMP0939,2026-07-27,27,7,Julho,Q3,S2,2026,31,Segunda-Feira,Não,Semana Gamer,Inverno
+TMP0940,2026-07-28,28,7,Julho,Q3,S2,2026,31,Terça-Feira,Não,Semana Gamer,Inverno
+TMP0941,2026-07-29,29,7,Julho,Q3,S2,2026,31,Quarta-Feira,Não,Semana Gamer,Inverno
+TMP0942,2026-07-30,30,7,Julho,Q3,S2,2026,31,Quinta-Feira,Não,Semana Gamer,Inverno
+TMP0943,2026-07-31,31,7,Julho,Q3,S2,2026,31,Sexta-Feira,Não,Semana Gamer,Inverno
+TMP0944,2026-08-01,1,8,Agosto,Q3,S2,2026,31,Sábado,Sim,Normal,Inverno
+TMP0945,2026-08-02,2,8,Agosto,Q3,S2,2026,31,Domingo,Sim,Normal,Inverno
+TMP0946,2026-08-03,3,8,Agosto,Q3,S2,2026,32,Segunda-Feira,Não,Normal,Inverno
+TMP0947,2026-08-04,4,8,Agosto,Q3,S2,2026,32,Terça-Feira,Não,Normal,Inverno
+TMP0948,2026-08-05,5,8,Agosto,Q3,S2,2026,32,Quarta-Feira,Não,Normal,Inverno
+TMP0949,2026-08-06,6,8,Agosto,Q3,S2,2026,32,Quinta-Feira,Não,Normal,Inverno
+TMP0950,2026-08-07,7,8,Agosto,Q3,S2,2026,32,Sexta-Feira,Não,Normal,Inverno
+TMP0951,2026-08-08,8,8,Agosto,Q3,S2,2026,32,Sábado,Sim,Normal,Inverno
+TMP0952,2026-08-09,9,8,Agosto,Q3,S2,2026,32,Domingo,Sim,Normal,Inverno
+TMP0953,2026-08-10,10,8,Agosto,Q3,S2,2026,33,Segunda-Feira,Não,Normal,Inverno
+TMP0954,2026-08-11,11,8,Agosto,Q3,S2,2026,33,Terça-Feira,Não,Normal,Inverno
+TMP0955,2026-08-12,12,8,Agosto,Q3,S2,2026,33,Quarta-Feira,Não,Normal,Inverno
+TMP0956,2026-08-13,13,8,Agosto,Q3,S2,2026,33,Quinta-Feira,Não,Normal,Inverno
+TMP0957,2026-08-14,14,8,Agosto,Q3,S2,2026,33,Sexta-Feira,Não,Normal,Inverno
+TMP0958,2026-08-15,15,8,Agosto,Q3,S2,2026,33,Sábado,Sim,Normal,Inverno
+TMP0959,2026-08-16,16,8,Agosto,Q3,S2,2026,33,Domingo,Sim,Normal,Inverno
+TMP0960,2026-08-17,17,8,Agosto,Q3,S2,2026,34,Segunda-Feira,Não,Normal,Inverno
+TMP0961,2026-08-18,18,8,Agosto,Q3,S2,2026,34,Terça-Feira,Não,Normal,Inverno
+TMP0962,2026-08-19,19,8,Agosto,Q3,S2,2026,34,Quarta-Feira,Não,Normal,Inverno
+TMP0963,2026-08-20,20,8,Agosto,Q3,S2,2026,34,Quinta-Feira,Não,Normal,Inverno
+TMP0964,2026-08-21,21,8,Agosto,Q3,S2,2026,34,Sexta-Feira,Não,Normal,Inverno
+TMP0965,2026-08-22,22,8,Agosto,Q3,S2,2026,34,Sábado,Sim,Normal,Inverno
+TMP0966,2026-08-23,23,8,Agosto,Q3,S2,2026,34,Domingo,Sim,Normal,Inverno
+TMP0967,2026-08-24,24,8,Agosto,Q3,S2,2026,35,Segunda-Feira,Não,Normal,Inverno
+TMP0968,2026-08-25,25,8,Agosto,Q3,S2,2026,35,Terça-Feira,Não,Normal,Inverno
+TMP0969,2026-08-26,26,8,Agosto,Q3,S2,2026,35,Quarta-Feira,Não,Normal,Inverno
+TMP0970,2026-08-27,27,8,Agosto,Q3,S2,2026,35,Quinta-Feira,Não,Normal,Inverno
+TMP0971,2026-08-28,28,8,Agosto,Q3,S2,2026,35,Sexta-Feira,Não,Normal,Inverno
+TMP0972,2026-08-29,29,8,Agosto,Q3,S2,2026,35,Sábado,Sim,Normal,Inverno
+TMP0973,2026-08-30,30,8,Agosto,Q3,S2,2026,35,Domingo,Sim,Normal,Inverno
+TMP0974,2026-08-31,31,8,Agosto,Q3,S2,2026,36,Segunda-Feira,Não,Normal,Inverno
+TMP0975,2026-09-01,1,9,Setembro,Q3,S2,2026,36,Terça-Feira,Não,Normal,Primavera
+TMP0976,2026-09-02,2,9,Setembro,Q3,S2,2026,36,Quarta-Feira,Não,Normal,Primavera
+TMP0977,2026-09-03,3,9,Setembro,Q3,S2,2026,36,Quinta-Feira,Não,Normal,Primavera
+TMP0978,2026-09-04,4,9,Setembro,Q3,S2,2026,36,Sexta-Feira,Não,Normal,Primavera
+TMP0979,2026-09-05,5,9,Setembro,Q3,S2,2026,36,Sábado,Sim,Normal,Primavera
+TMP0980,2026-09-06,6,9,Setembro,Q3,S2,2026,36,Domingo,Sim,Normal,Primavera
+TMP0981,2026-09-07,7,9,Setembro,Q3,S2,2026,37,Segunda-Feira,Não,Normal,Primavera
+TMP0982,2026-09-08,8,9,Setembro,Q3,S2,2026,37,Terça-Feira,Não,Normal,Primavera
+TMP0983,2026-09-09,9,9,Setembro,Q3,S2,2026,37,Quarta-Feira,Não,Normal,Primavera
+TMP0984,2026-09-10,10,9,Setembro,Q3,S2,2026,37,Quinta-Feira,Não,Normal,Primavera
+TMP0985,2026-09-11,11,9,Setembro,Q3,S2,2026,37,Sexta-Feira,Não,Normal,Primavera
+TMP0986,2026-09-12,12,9,Setembro,Q3,S2,2026,37,Sábado,Sim,Normal,Primavera
+TMP0987,2026-09-13,13,9,Setembro,Q3,S2,2026,37,Domingo,Sim,Normal,Primavera
+TMP0988,2026-09-14,14,9,Setembro,Q3,S2,2026,38,Segunda-Feira,Não,Normal,Primavera
+TMP0989,2026-09-15,15,9,Setembro,Q3,S2,2026,38,Terça-Feira,Não,Normal,Primavera
+TMP0990,2026-09-16,16,9,Setembro,Q3,S2,2026,38,Quarta-Feira,Não,Normal,Primavera
+TMP0991,2026-09-17,17,9,Setembro,Q3,S2,2026,38,Quinta-Feira,Não,Normal,Primavera
+TMP0992,2026-09-18,18,9,Setembro,Q3,S2,2026,38,Sexta-Feira,Não,Normal,Primavera
+TMP0993,2026-09-19,19,9,Setembro,Q3,S2,2026,38,Sábado,Sim,Normal,Primavera
+TMP0994,2026-09-20,20,9,Setembro,Q3,S2,2026,38,Domingo,Sim,Normal,Primavera
+TMP0995,2026-09-21,21,9,Setembro,Q3,S2,2026,39,Segunda-Feira,Não,Normal,Primavera
+TMP0996,2026-09-22,22,9,Setembro,Q3,S2,2026,39,Terça-Feira,Não,Normal,Primavera
+TMP0997,2026-09-23,23,9,Setembro,Q3,S2,2026,39,Quarta-Feira,Não,Normal,Primavera
+TMP0998,2026-09-24,24,9,Setembro,Q3,S2,2026,39,Quinta-Feira,Não,Normal,Primavera
+TMP0999,2026-09-25,25,9,Setembro,Q3,S2,2026,39,Sexta-Feira,Não,Normal,Primavera
+TMP1000,2026-09-26,26,9,Setembro,Q3,S2,2026,39,Sábado,Sim,Normal,Primavera
+TMP1001,2026-09-27,27,9,Setembro,Q3,S2,2026,39,Domingo,Sim,Normal,Primavera
+TMP1002,2026-09-28,28,9,Setembro,Q3,S2,2026,40,Segunda-Feira,Não,Normal,Primavera
+TMP1003,2026-09-29,29,9,Setembro,Q3,S2,2026,40,Terça-Feira,Não,Normal,Primavera
+TMP1004,2026-09-30,30,9,Setembro,Q3,S2,2026,40,Quarta-Feira,Não,Normal,Primavera
+TMP1005,2026-10-01,1,10,Outubro,Q4,S2,2026,40,Quinta-Feira,Não,Normal,Primavera
+TMP1006,2026-10-02,2,10,Outubro,Q4,S2,2026,40,Sexta-Feira,Não,Normal,Primavera
+TMP1007,2026-10-03,3,10,Outubro,Q4,S2,2026,40,Sábado,Sim,Normal,Primavera
+TMP1008,2026-10-04,4,10,Outubro,Q4,S2,2026,40,Domingo,Sim,Normal,Primavera
+TMP1009,2026-10-05,5,10,Outubro,Q4,S2,2026,41,Segunda-Feira,Não,Normal,Primavera
+TMP1010,2026-10-06,6,10,Outubro,Q4,S2,2026,41,Terça-Feira,Não,Normal,Primavera
+TMP1011,2026-10-07,7,10,Outubro,Q4,S2,2026,41,Quarta-Feira,Não,Normal,Primavera
+TMP1012,2026-10-08,8,10,Outubro,Q4,S2,2026,41,Quinta-Feira,Não,Normal,Primavera
+TMP1013,2026-10-09,9,10,Outubro,Q4,S2,2026,41,Sexta-Feira,Não,Normal,Primavera
+TMP1014,2026-10-10,10,10,Outubro,Q4,S2,2026,41,Sábado,Sim,Normal,Primavera
+TMP1015,2026-10-11,11,10,Outubro,Q4,S2,2026,41,Domingo,Sim,Normal,Primavera
+TMP1016,2026-10-12,12,10,Outubro,Q4,S2,2026,42,Segunda-Feira,Não,Normal,Primavera
+TMP1017,2026-10-13,13,10,Outubro,Q4,S2,2026,42,Terça-Feira,Não,Normal,Primavera
+TMP1018,2026-10-14,14,10,Outubro,Q4,S2,2026,42,Quarta-Feira,Não,Normal,Primavera
+TMP1019,2026-10-15,15,10,Outubro,Q4,S2,2026,42,Quinta-Feira,Não,Normal,Primavera
+TMP1020,2026-10-16,16,10,Outubro,Q4,S2,2026,42,Sexta-Feira,Não,Normal,Primavera
+TMP1021,2026-10-17,17,10,Outubro,Q4,S2,2026,42,Sábado,Sim,Normal,Primavera
+TMP1022,2026-10-18,18,10,Outubro,Q4,S2,2026,42,Domingo,Sim,Normal,Primavera
+TMP1023,2026-10-19,19,10,Outubro,Q4,S2,2026,43,Segunda-Feira,Não,Normal,Primavera
+TMP1024,2026-10-20,20,10,Outubro,Q4,S2,2026,43,Terça-Feira,Não,Normal,Primavera
+TMP1025,2026-10-21,21,10,Outubro,Q4,S2,2026,43,Quarta-Feira,Não,Normal,Primavera
+TMP1026,2026-10-22,22,10,Outubro,Q4,S2,2026,43,Quinta-Feira,Não,Normal,Primavera
+TMP1027,2026-10-23,23,10,Outubro,Q4,S2,2026,43,Sexta-Feira,Não,Normal,Primavera
+TMP1028,2026-10-24,24,10,Outubro,Q4,S2,2026,43,Sábado,Sim,Normal,Primavera
+TMP1029,2026-10-25,25,10,Outubro,Q4,S2,2026,43,Domingo,Sim,Normal,Primavera
+TMP1030,2026-10-26,26,10,Outubro,Q4,S2,2026,44,Segunda-Feira,Não,Normal,Primavera
+TMP1031,2026-10-27,27,10,Outubro,Q4,S2,2026,44,Terça-Feira,Não,Normal,Primavera
+TMP1032,2026-10-28,28,10,Outubro,Q4,S2,2026,44,Quarta-Feira,Não,Normal,Primavera
+TMP1033,2026-10-29,29,10,Outubro,Q4,S2,2026,44,Quinta-Feira,Não,Normal,Primavera
+TMP1034,2026-10-30,30,10,Outubro,Q4,S2,2026,44,Sexta-Feira,Não,Normal,Primavera
+TMP1035,2026-10-31,31,10,Outubro,Q4,S2,2026,44,Sábado,Sim,Normal,Primavera
+TMP1036,2026-11-01,1,11,Novembro,Q4,S2,2026,44,Domingo,Sim,Normal,Primavera
+TMP1037,2026-11-02,2,11,Novembro,Q4,S2,2026,45,Segunda-Feira,Não,Normal,Primavera
+TMP1038,2026-11-03,3,11,Novembro,Q4,S2,2026,45,Terça-Feira,Não,Normal,Primavera
+TMP1039,2026-11-04,4,11,Novembro,Q4,S2,2026,45,Quarta-Feira,Não,Normal,Primavera
+TMP1040,2026-11-05,5,11,Novembro,Q4,S2,2026,45,Quinta-Feira,Não,Normal,Primavera
+TMP1041,2026-11-06,6,11,Novembro,Q4,S2,2026,45,Sexta-Feira,Não,Normal,Primavera
+TMP1042,2026-11-07,7,11,Novembro,Q4,S2,2026,45,Sábado,Sim,Normal,Primavera
+TMP1043,2026-11-08,8,11,Novembro,Q4,S2,2026,45,Domingo,Sim,Normal,Primavera
+TMP1044,2026-11-09,9,11,Novembro,Q4,S2,2026,46,Segunda-Feira,Não,Normal,Primavera
+TMP1045,2026-11-10,10,11,Novembro,Q4,S2,2026,46,Terça-Feira,Não,Normal,Primavera
+TMP1046,2026-11-11,11,11,Novembro,Q4,S2,2026,46,Quarta-Feira,Não,Normal,Primavera
+TMP1047,2026-11-12,12,11,Novembro,Q4,S2,2026,46,Quinta-Feira,Não,Normal,Primavera
+TMP1048,2026-11-13,13,11,Novembro,Q4,S2,2026,46,Sexta-Feira,Não,Normal,Primavera
+TMP1049,2026-11-14,14,11,Novembro,Q4,S2,2026,46,Sábado,Sim,Normal,Primavera
+TMP1050,2026-11-15,15,11,Novembro,Q4,S2,2026,46,Domingo,Sim,Normal,Primavera
+TMP1051,2026-11-16,16,11,Novembro,Q4,S2,2026,47,Segunda-Feira,Não,Normal,Primavera
+TMP1052,2026-11-17,17,11,Novembro,Q4,S2,2026,47,Terça-Feira,Não,Normal,Primavera
+TMP1053,2026-11-18,18,11,Novembro,Q4,S2,2026,47,Quarta-Feira,Não,Normal,Primavera
+TMP1054,2026-11-19,19,11,Novembro,Q4,S2,2026,47,Quinta-Feira,Não,Normal,Primavera
+TMP1055,2026-11-20,20,11,Novembro,Q4,S2,2026,47,Sexta-Feira,Não,Normal,Primavera
+TMP1056,2026-11-21,21,11,Novembro,Q4,S2,2026,47,Sábado,Sim,Normal,Primavera
+TMP1057,2026-11-22,22,11,Novembro,Q4,S2,2026,47,Domingo,Sim,Normal,Primavera
+TMP1058,2026-11-23,23,11,Novembro,Q4,S2,2026,48,Segunda-Feira,Não,Normal,Primavera
+TMP1059,2026-11-24,24,11,Novembro,Q4,S2,2026,48,Terça-Feira,Não,Normal,Primavera
+TMP1060,2026-11-25,25,11,Novembro,Q4,S2,2026,48,Quarta-Feira,Não,Black Friday,Primavera
+TMP1061,2026-11-26,26,11,Novembro,Q4,S2,2026,48,Quinta-Feira,Não,Black Friday,Primavera
+TMP1062,2026-11-27,27,11,Novembro,Q4,S2,2026,48,Sexta-Feira,Não,Black Friday,Primavera
+TMP1063,2026-11-28,28,11,Novembro,Q4,S2,2026,48,Sábado,Sim,Black Friday,Primavera
+TMP1064,2026-11-29,29,11,Novembro,Q4,S2,2026,48,Domingo,Sim,Black Friday,Primavera
+TMP1065,2026-11-30,30,11,Novembro,Q4,S2,2026,49,Segunda-Feira,Não,Black Friday,Primavera
+TMP1066,2026-12-01,1,12,Dezembro,Q4,S2,2026,49,Terça-Feira,Não,Natal,Verão
+TMP1067,2026-12-02,2,12,Dezembro,Q4,S2,2026,49,Quarta-Feira,Não,Natal,Verão
+TMP1068,2026-12-03,3,12,Dezembro,Q4,S2,2026,49,Quinta-Feira,Não,Natal,Verão
+TMP1069,2026-12-04,4,12,Dezembro,Q4,S2,2026,49,Sexta-Feira,Não,Natal,Verão
+TMP1070,2026-12-05,5,12,Dezembro,Q4,S2,2026,49,Sábado,Sim,Natal,Verão
+TMP1071,2026-12-06,6,12,Dezembro,Q4,S2,2026,49,Domingo,Sim,Natal,Verão
+TMP1072,2026-12-07,7,12,Dezembro,Q4,S2,2026,50,Segunda-Feira,Não,Natal,Verão
+TMP1073,2026-12-08,8,12,Dezembro,Q4,S2,2026,50,Terça-Feira,Não,Natal,Verão
+TMP1074,2026-12-09,9,12,Dezembro,Q4,S2,2026,50,Quarta-Feira,Não,Natal,Verão
+TMP1075,2026-12-10,10,12,Dezembro,Q4,S2,2026,50,Quinta-Feira,Não,Natal,Verão
+TMP1076,2026-12-11,11,12,Dezembro,Q4,S2,2026,50,Sexta-Feira,Não,Natal,Verão
+TMP1077,2026-12-12,12,12,Dezembro,Q4,S2,2026,50,Sábado,Sim,Natal,Verão
+TMP1078,2026-12-13,13,12,Dezembro,Q4,S2,2026,50,Domingo,Sim,Natal,Verão
+TMP1079,2026-12-14,14,12,Dezembro,Q4,S2,2026,51,Segunda-Feira,Não,Natal,Verão
+TMP1080,2026-12-15,15,12,Dezembro,Q4,S2,2026,51,Terça-Feira,Não,Natal,Verão
+TMP1081,2026-12-16,16,12,Dezembro,Q4,S2,2026,51,Quarta-Feira,Não,Natal,Verão
+TMP1082,2026-12-17,17,12,Dezembro,Q4,S2,2026,51,Quinta-Feira,Não,Natal,Verão
+TMP1083,2026-12-18,18,12,Dezembro,Q4,S2,2026,51,Sexta-Feira,Não,Natal,Verão
+TMP1084,2026-12-19,19,12,Dezembro,Q4,S2,2026,51,Sábado,Sim,Natal,Verão
+TMP1085,2026-12-20,20,12,Dezembro,Q4,S2,2026,51,Domingo,Sim,Natal,Verão
+TMP1086,2026-12-21,21,12,Dezembro,Q4,S2,2026,52,Segunda-Feira,Não,Natal,Verão
+TMP1087,2026-12-22,22,12,Dezembro,Q4,S2,2026,52,Terça-Feira,Não,Natal,Verão
+TMP1088,2026-12-23,23,12,Dezembro,Q4,S2,2026,52,Quarta-Feira,Não,Natal,Verão
+TMP1089,2026-12-24,24,12,Dezembro,Q4,S2,2026,52,Quinta-Feira,Não,Natal,Verão
+TMP1090,2026-12-25,25,12,Dezembro,Q4,S2,2026,52,Sexta-Feira,Não,Natal,Verão
+TMP1091,2026-12-26,26,12,Dezembro,Q4,S2,2026,52,Sábado,Sim,Natal,Verão
+TMP1092,2026-12-27,27,12,Dezembro,Q4,S2,2026,52,Domingo,Sim,Natal,Verão
+TMP1093,2026-12-28,28,12,Dezembro,Q4,S2,2026,53,Segunda-Feira,Não,Natal,Verão
+TMP1094,2026-12-29,29,12,Dezembro,Q4,S2,2026,53,Terça-Feira,Não,Natal,Verão
+TMP1095,2026-12-30,30,12,Dezembro,Q4,S2,2026,53,Quarta-Feira,Não,Natal,Verão
+TMP1096,2026-12-31,31,12,Dezembro,Q4,S2,2026,53,Quinta-Feira,Não,Natal,Verão

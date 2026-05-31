@@ -1,0 +1,67 @@
+ID_Produto,Nome_Produto,Categoria,Midia_Fisica_Digital,ID_Plataforma,Preco_Venda,Custo_Produto,Estoque,Editora,Genero,Classificacao_Etaria,Ano_Lancamento,Data_Lancamento,URL_Imagem
+PRD001,God of War Ragnarok,Jogos,Fisico,PLT001,249.90,164.90,120,Sony Santa Monica,Action-Adventure,18+,2022,2022-11-09,https://i.postimg.cc/1tt20VsX/Whats-App-Image-2026-05-23-at-13-35-39.jpg
+PRD002,Spider-Man 2,Jogos,Digital,PLT001,299.90,194.90,100,Insomniac Games,Action-Adventure,16+,2023,2023-10-20,https://i.postimg.cc/BZzNywBf/Whats-App-Image-2026-05-23-at-13-35-38.jpg
+PRD003,Horizon Forbidden West,Jogos,Fisico,PLT001,199.90,129.90,80,Guerrilla Games,RPG de Ação,14+,2022,2022-02-18,https://i.postimg.cc/3NjqYXBh/Whats-App-Image-2026-05-23-at-13-35-43.jpg
+PRD004,Marvel Wolverine,Jogos,Digital,PLT001,379.90,249.90,60,Insomniac Games,Action-Adventure,18+,2026,2026-09-01,https://i.postimg.cc/Pqc94rx0/Whats-App-Image-2026-05-23-at-13-35-42.jpg
+PRD005,Death Stranding 2,Jogos,Fisico,PLT001,329.90,214.90,80,Kojima Productions,Ação-Aventura,18+,2025,2025-06-26,https://i.postimg.cc/ZY3tw36X/Whats-App-Image-2026-05-23-at-13-35-41.jpg
+PRD006,Resident Evil 9 Requiem,Jogos,Digital,PLT001,349.90,224.90,90,Capcom,Survival Horror,18+,2026,2026-02-27,https://i.postimg.cc/d3dYdZj8/Whats-App-Image-2026-05-23-at-13-35-40.jpg
+PRD007,Silent Hill 2 Remake,Jogos,Fisico,PLT001,249.90,164.90,70,Konami,Survival Horror,18+,2024,2024-10-08,https://i.postimg.cc/522rWFFt/Whats-App-Image-2026-05-23-at-16-08-03.jpg
+PRD008,Astro Bot,Jogos,Digital,PLT001,249.90,164.90,90,Team Asobi,Plataforma,10+,2024,2024-09-06,https://i.postimg.cc/8cGyKFVm/Whats-App-Image-2026-05-23-at-16-08-04.jpg
+PRD014,Marvel's Spider-Man Remastered,Jogos,Fisico,PLT001,199.90,129.90,80,Insomniac Games,Action-Adventure,16+,2022,2022-08-12,https://i.postimg.cc/8cGyKFVm/Whats-App-Image-2026-05-23-at-16-08-04.jpg
+PRD065,The Last of Us Part II Remastered,Jogos,Digital,PLT001,249.90,164.90,70,Naughty Dog,Action-Adventure,18+,2024,2024-01-19,https://i.postimg.cc/vTGz7prG/Whats-App-Image-2026-05-23-at-16-08-06.jpg
+PRD066,The Last of Us Part I,Jogos,Fisico,PLT001,199.90,129.90,70,Naughty Dog,Action-Adventure,18+,2022,2022-09-02,https://i.postimg.cc/bNNgZfYd/Whats-App-Image-2026-05-23-at-16-08-07.jpg
+PRD009,Forza Horizon 5,Jogos,Fisico,PLT002,199.90,129.90,100,Playground Games,Corrida,10+,2021,2021-11-09,https://i.postimg.cc/8z7bbd68/Whats-App-Image-2026-05-23-at-16-08-14.jpg
+PRD010,Forza Horizon 6,Jogos,Digital,PLT002,349.90,229.90,60,Playground Games,Corrida,10+,2026,2026-08-01,https://i.postimg.cc/d0QxvZ7p/Whats-App-Image-2026-05-23-at-12-36-53.jpg
+PRD011,Halo Infinite,Jogos,Digital,PLT002,149.90,99.90,80,343 Industries,FPS,16+,2021,2021-12-08,https://i.postimg.cc/xC3GdtWH/Whats-App-Image-2026-05-23-at-16-08-15.jpg
+PRD012,Fable,Jogos,Fisico,PLT002,349.90,229.90,60,Playground Games,RPG,16+,2026,2026-09-01,https://i.postimg.cc/qBQXVDc6/Whats-App-Image-2026-05-23-at-16-08-16.jpg
+PRD013,Avowed,Jogos,Digital,PLT002,179.90,119.90,50,Obsidian Entertainment,RPG,16+,2025,2025-02-18,https://i.postimg.cc/NF0XjY8y/Whats-App-Image-2026-05-23-at-16-08-18.jpg
+PRD015,The Legend of Zelda Tears of the Kingdom,Jogos,Fisico,PLT003,299.90,194.90,100,Nintendo,Action-Adventure,10+,2023,2023-05-12,https://i.postimg.cc/FRYZTjqW/Whats-App-Image-2026-05-23-at-16-08-19.jpg
+PRD016,Super Mario Bros Wonder,Jogos,Digital,PLT003,249.90,164.90,100,Nintendo,Plataforma,Livre,2023,2023-10-20,https://i.postimg.cc/wBZJTnfL/Captura-de-tela-2026-05-24-100247.png
+PRD017,Metroid Prime 4 Beyond,Jogos,Fisico,PLT007,349.90,229.90,70,Retro Studios,Action-Adventure,14+,2025,2025-12-04,https://i.postimg.cc/qM4KRswd/Whats-App-Image-2026-05-23-at-16-08-21.jpg
+PRD018,Mario Kart World,Jogos,Digital,PLT007,349.90,229.90,100,Nintendo,Corrida,Livre,2025,2025-06-05,https://i.postimg.cc/P5Fv2Bjd/Whats-App-Image-2026-05-23-at-16-08-22.jpg
+PRD019,Pokemon Scarlet,Jogos,Fisico,PLT003,249.90,164.90,80,Game Freak,RPG,Livre,2022,2022-11-18,https://i.postimg.cc/SQrsgwLF/Captura-de-tela-2026-05-24-100613.png
+PRD020,Elden Ring,Jogos,Digital,PLT008,199.90,129.90,120,FromSoftware,Action RPG,16+,2022,2022-02-25,https://i.postimg.cc/gjkY92VD/Whats-App-Image-2026-05-23-at-16-08-24.jpg
+PRD021,Elden Ring Shadow of the Erdtree,Jogos,Fisico,PLT008,249.90,164.90,90,FromSoftware,Action RPG,16+,2024,2024-06-21,https://i.postimg.cc/tCc9fyYr/Whats-App-Image-2026-05-23-at-16-08-25.jpg
+PRD022,EA Sports FC 25,Jogos,Digital,PLT008,249.90,164.90,150,EA Sports,Esportes,Livre,2024,2024-09-27,https://i.postimg.cc/brJsxTBG/Whats-App-Image-2026-05-23-at-16-08-40.jpg
+PRD023,EA Sports FC 26,Jogos,Fisico,PLT008,299.90,194.90,150,EA Sports,Esportes,Livre,2025,2025-09-26,https://i.postimg.cc/43k7DpmV/Whats-App-Image-2026-05-23-at-16-08-39.jpg
+PRD024,Call of Duty Black Ops 6,Jogos,Digital,PLT008,249.90,164.90,120,Treyarch,FPS,18+,2024,2024-10-25,https://i.postimg.cc/rmZHmyXL/Whats-App-Image-2026-05-23-at-16-08-27.jpg
+PRD025,Call of Duty Black Ops 7,Jogos,Fisico,PLT008,299.90,194.90,120,Treyarch,FPS,18+,2025,2025-10-24,https://i.postimg.cc/NGJt9Y8W/Whats-App-Image-2026-05-23-at-16-08-26.jpg
+PRD026,Assassin's Creed Shadows,Jogos,Digital,PLT008,249.90,164.90,100,Ubisoft,Action-Adventure,18+,2025,2025-03-20,https://i.postimg.cc/jjZggqSG/Whats-App-Image-2026-05-23-at-16-08-28.jpg
+PRD027,Hollow Knight Silksong,Jogos,Fisico,PLT008,99.90,59.90,120,Team Cherry,Metroidvania,10+,2025,2025-09-04,https://i.postimg.cc/mZHxDMDj/Whats-App-Image-2026-05-23-at-16-08-31.jpg
+PRD028,GTA VI,Jogos,Digital,PLT008,399.90,264.90,150,Rockstar Games,Ação-Aventura,18+,2026,2026-11-19,https://i.postimg.cc/Ssb6fwWv/Whats-App-Image-2026-05-23-at-16-08-37.jpg
+PRD029,Red Dead Redemption 2,Jogos,Fisico,PLT008,149.90,99.90,100,Rockstar Games,Ação-Aventura,18+,2018,2018-10-26,https://i.postimg.cc/9FLBHghR/Whats-App-Image-2026-05-23-at-16-08-36.jpg
+PRD030,The Witcher 4,Jogos,Digital,PLT008,349.90,229.90,80,CD Projekt Red,RPG,18+,2026,2026-10-01,https://i.postimg.cc/mrgf25zB/Whats-App-Image-2026-05-23-at-16-08-30.jpg
+PRD031,Doom The Dark Ages,Jogos,Fisico,PLT008,249.90,164.90,90,id Software,FPS,18+,2025,2025-05-15,https://i.postimg.cc/sD4NQJRj/Whats-App-Image-2026-05-23-at-16-08-33.jpg
+PRD032,Clair Obscur Expedition 33,Jogos,Digital,PLT008,199.90,129.90,90,Sandfall Interactive,RPG Turn-Based,16+,2025,2025-04-24,https://i.postimg.cc/TP4S2YvD/Whats-App-Image-2026-05-23-at-16-08-32.jpg
+PRD033,Dragon Ball Sparking Zero,Jogos,Fisico,PLT008,249.90,164.90,100,Bandai Namco,Luta,12+,2024,2024-10-11,https://i.postimg.cc/N09D46ZN/Whats-App-Image-2026-05-23-at-16-08-35.jpg
+PRD034,Minecraft,Jogos,Digital,PLT008,99.90,59.90,150,Mojang,Sandbox,Livre,2011,2011-11-18,https://i.postimg.cc/C5VcdRPm/Whats-App-Image-2026-05-23-at-16-08-34.jpg
+PRD035,Cyberpunk 2077 Phantom Liberty,Jogos,Fisico,PLT008,149.90,99.90,90,CD Projekt Red,RPG,18+,2023,2023-09-26,https://i.postimg.cc/mkJ2QG9C/Whats-App-Image-2026-05-23-at-16-08-43.jpg
+PRD061,GTA V,Jogos,Digital,PLT008,99.90,59.90,120,Rockstar Games,Ação-Aventura,18+,2013,2013-09-17,https://i.postimg.cc/65pdcVvh/Whats-App-Image-2026-05-23-at-16-08-38.jpg
+PRD062,The Witcher 3 Wild Hunt,Jogos,Fisico,PLT008,99.90,59.90,100,CD Projekt Red,RPG,18+,2015,2015-05-19,https://i.postimg.cc/7PG42dB4/Whats-App-Image-2026-05-23-at-16-08-29.jpg
+PRD063,Assassin's Creed Black Flag,Jogos,Digital,PLT008,79.90,49.90,80,Ubisoft,Action-Adventure,18+,2013,2013-10-29,https://i.postimg.cc/s24Xb8kt/Whats-App-Image-2026-05-23-at-16-08-42.jpg
+PRD064,Assassin's Creed Black Flag Resynced,Jogos,Fisico,PLT008,299.90,194.90,100,Ubisoft,Action-Adventure,18+,2026,2026-07-09,https://i.postimg.cc/bvL9R6wM/Whats-App-Image-2026-05-23-at-13-35-37.jpg
+PRD036,PlayStation 5 Slim,Consoles,Físico,PLT001,"3,799.90","3,139.90",12,Sony,—,—,2023,2023-11-10,https://i.postimg.cc/sf7VLb58/Whats-App-Image-2026-05-23-at-16-52-02.jpg
+PRD037,Xbox Series X,Consoles,Físico,PLT002,"3,999.90","3,299.90",10,Microsoft,—,—,2020,2020-11-10,https://i.postimg.cc/kMQmsKmJ/Whats-App-Image-2026-05-23-at-16-52-05.jpg
+PRD038,Xbox Series S,Consoles,Físico,PLT002,"2,599.90","2,159.90",15,Microsoft,—,—,2020,2020-11-10,https://i.postimg.cc/Twkrvp8Y/Captura-de-tela-2026-05-24-102940.png
+PRD039,Nintendo Switch OLED,Consoles,Físico,PLT003,"2,799.90","2,309.90",15,Nintendo,—,—,2021,2021-10-08,https://i.postimg.cc/bwBcrRQM/Whats-App-Image-2026-05-23-at-16-52-06.jpg
+PRD040,Nintendo Switch 2,Consoles,Físico,PLT007,"3,499.90","2,889.90",12,Nintendo,—,—,2025,2025-06-05,https://i.postimg.cc/0jxhFXqF/Whats-App-Image-2026-05-23-at-16-52-07.jpg
+PRD041,PlayStation 5 Pro,Consoles,Físico,PLT001,"5,299.90","4,399.90",8,Sony,—,—,2024,2024-11-07,https://i.postimg.cc/5tDV7myd/Whats-App-Image-2026-05-23-at-16-52-03.jpg
+PRD042,Controle DualSense PS5,Acessórios,Físico,PLT001,549.90,299.90,50,Sony,—,—,2020,2020-11-12,https://i.postimg.cc/zvKXSck1/Whats-App-Image-2026-05-23-at-16-51-59.jpg
+PRD043,Controle Xbox Series,Acessórios,Físico,PLT002,449.90,239.90,50,Microsoft,—,—,2020,2020-11-10,https://i.postimg.cc/pXQLm3TG/Whats-App-Image-2026-05-23-at-16-51-60.jpg
+PRD044,Headset Sony Pulse 3D,Acessórios,Físico,PLT001,699.90,374.90,30,Sony,—,—,2020,2020-11-12,https://i.postimg.cc/5tr4cVPP/Whats-App-Image-2026-05-23-at-16-52-00.jpg
+PRD045,Headset Xbox Wireless,Acessórios,Físico,PLT002,649.90,349.90,30,Microsoft,—,—,2021,2021-03-16,https://i.postimg.cc/WbNQ7y8t/Whats-App-Image-2026-05-23-at-16-52-08.jpg
+PRD046,Suporte Vertical PS5,Acessórios,Físico,PLT001,129.90,59.90,60,Sony,—,—,2023,2023-11-10,https://i.postimg.cc/3x6VYxhQ/Whats-App-Image-2026-05-23-at-16-52-09.jpg
+PRD047,SSD Seagate 1TB PS5,Acessórios,Físico,PLT001,749.90,449.90,25,Seagate,—,—,2021,2021-09-17,https://i.postimg.cc/k4NpQNtf/Whats-App-Image-2026-05-23-at-16-52-10.jpg
+PRD048,Teclado/Mouse Gaming Redragon,Acessórios,Físico,PLT004,399.90,199.90,40,Redragon,—,—,2022,2022-06-15,https://i.postimg.cc/1RHd4HSm/Whats-App-Image-2026-05-23-at-16-52-11.jpg
+PRD049,Mouse Logitech G502,Acessórios,Físico,PLT004,449.90,224.90,35,Logitech,—,—,2021,2021-04-20,https://i.postimg.cc/x1kpxVzG/Whats-App-Image-2026-05-23-at-16-52-12.jpg
+PRD050,Cadeira Gamer DXRacer,Acessórios,Físico,PLT008,899.90,449.90,15,DXRacer,—,—,2021,2021-01-10,https://i.postimg.cc/hvPpVknj/Whats-App-Image-2026-05-23-at-16-52-13.jpg
+PRD051,Gift Card PSN R$50,Gift Cards,Digital,PLT001,50.00,40.00,200,Sony,—,—,2020,2020-11-12,https://i.postimg.cc/sX0Z0qSm/Captura-de-tela-2026-05-24-103100.png
+PRD052,Gift Card PSN R$100,Gift Cards,Digital,PLT001,100.00,80.00,200,Sony,—,—,2020,2020-11-12,https://i.postimg.cc/K4hj628d/Captura-de-tela-2026-05-24-103222.png
+PRD053,Gift Card PSN R$200,Gift Cards,Digital,PLT001,200.00,160.00,150,Sony,—,—,2020,2020-11-12,https://i.postimg.cc/q71wXkJ8/Captura-de-tela-2026-05-24-103321.png
+PRD054,Gift Card Xbox R$50,Gift Cards,Digital,PLT002,50.00,40.00,150,Microsoft,—,—,2020,2020-11-10,https://i.postimg.cc/SswWDRwV/Captura-de-tela-2026-05-24-103442.png
+PRD055,Gift Card Xbox R$100,Gift Cards,Digital,PLT002,100.00,80.00,150,Microsoft,—,—,2020,2020-11-10,https://i.postimg.cc/s2x7z5zv/Captura-de-tela-2026-05-24-103544.png
+PRD056,Gift Card Steam R$50,Gift Cards,Digital,PLT004,50.00,40.00,200,Valve,—,—,2020,2020-01-01,https://i.postimg.cc/W1Wq5tZ2/Captura-de-tela-2026-05-24-103647.png
+PRD057,Gift Card Steam R$100,Gift Cards,Digital,PLT004,100.00,80.00,200,Valve,—,—,2020,2020-01-01,https://i.postimg.cc/tR31LB6c/Captura-de-tela-2026-05-24-103752.png
+PRD058,Gift Card Nintendo R$50,Gift Cards,Digital,PLT003,50.00,40.00,150,Nintendo,—,—,2020,2020-01-01,https://i.postimg.cc/wvxPgfvM/Captura-de-tela-2026-05-24-104229.png
+PRD059,Gift Card Nintendo R$100,Gift Cards,Digital,PLT003,100.00,80.00,150,Nintendo,—,—,2020,2020-01-01,https://i.postimg.cc/J0vd3RQd/Captura-de-tela-2026-05-24-104116.png
+PRD060,Gift Card Steam R$200,Gift Cards,Digital,PLT004,200.00,160.00,100,Valve,—,—,2020,2020-01-01,https://i.postimg.cc/g2n2ksxf/Captura-de-tela-2026-05-24-103956.png
