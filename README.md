@@ -106,4 +106,4 @@ Cogito AI	Inteligência Artificial
 Cogito Cloud	Infraestrutura e Big Data
 Cogito Academy	Cursos e treinamento
 
-para saber mais detalhe da empresa em si acessa esse link https://canva.link/vqm4cyh6rkxs0mr
+para saber mais detalhe da empresa em si acessa esse link https://canva.link/7u6kxu5lql30azf
