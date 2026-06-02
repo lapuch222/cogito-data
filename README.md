@@ -105,3 +105,5 @@ Cogito Enterprise	Médias e grandes empresas
 Cogito AI	Inteligência Artificial
 Cogito Cloud	Infraestrutura e Big Data
 Cogito Academy	Cursos e treinamento
+
+para saber mais detalhe da empresa em si acessa esse link https://canva.link/vqm4cyh6rkxs0mr
